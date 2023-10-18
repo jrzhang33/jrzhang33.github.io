@@ -6,8 +6,8 @@ author_profile: true
 ---
     
 Email: 
-* langfeng@zju.edu.cn (acadamic use)
-* langfeng.q@gmail.com (normal use)
+* junruzhang@zju.edu.cn 
+
 
 Address: 
-* LaoShengYi Bldg., Yuquan Campus, Zhejiang University.
+* Teaching Building No. 11, Yuquan Campus, Zhejiang University.
