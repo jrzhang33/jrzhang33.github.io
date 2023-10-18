@@ -1,6 +1,6 @@
-<!-- ## Selected Publications -->
+<!-- ## Selected Project -->
 
-# Publications
+# Project
 
 <table class="pub_table">
 <!-- 
@@ -18,8 +18,8 @@
 {% include table-space.html %}
 
 <tr>
-  <td class="pub_td1"><div class="teaser_img_div"><a href=""><img class="teaser_img" src="images/teasers/tmi22_teaser.png" /></a></div></td>
-  <td class="pub_td2"><b>High Fidelity Medical Image-to-Image Translation with Spatial-Intensity Transforms</b><br />
+  <td class="pub_td1"><div class="teaser_img_div"><a href=""><img class="teaser_img" src="images/teasers/timetool.png" /></a></div></td>
+  <td class="pub_td2"><b>Time-Series Analysis Tool for Visual Presentation and Interaction</b><br />
 		<div class='paper_metadata'>
   	<u>Clinton Wang</u>,
   	<a href="https://www.massgeneral.org/doctors/17477/natalia-rost/">Natalia Rost</a>,
@@ -194,69 +194,63 @@
 
 
 <tr>
-	<td class="pub_td1"><div class="teaser_img_div"><img class="teaser_img" src="/images/teasers/rlotsc.png"/></div></td>
-	<td class="pub_td2"><b>RL-OTSC: A Reinforcement Learning-Assisted Framework for Continual Online Time Series Classification</b><br>
+	<td class="pub_td1"><div class="teaser_img_div"><img class="teaser_img" src="/images/teasers/timetool.png"/></div></td>
+	<td class="pub_td2"><b>Time-Series Visualization and Interaction Tool</b><br>
 		<div class='paper_metadata'>
-		<u>Junru Zhang</u>,
-	  	Yang He,
-	  	Zhidan Liu,
-		Yipu Gong,
-		Yabo Dong
-		<br><i>Under review at IEEE Transactions on Knowledge and Data Engineering (TKDE) </i>,
-		<br>TL;DR: A novel continual learning framework using RL for online time series classification, balancing stability and plasticity in challenging scenarios.<br>
+		<br>TL;DR: A web tool capable of analyzing online time series data using various algorithms.<br>
+		<br> This project utilizes Streamlit to provide visual result presentation, enhancing data interaction and information retrieval. It also builds a remote API for data stream processing. <br>
 		</div>
-		[<a href="https://arxiv.org/abs/2310.05467">Paper</a>] [<a href="https://github.com/jrzhang33/TCE">Code</a>]
+		[<a href="https://arxiv.org/abs/2310.05467">PDF</a>] [<a href="https://github.com/jrzhang33/TCE">Code</a>]
 </td></tr>
 {% include table-space.html %}
 
 
 
 <tr>
-	<td class="pub_td1"><div class="teaser_img_div"><a href="https://arxiv.org/abs/2310.05467"><img class="teaser_img" src="/images/teasers/2023_tce.png"/></a></div></td>
-	<td class="pub_td2"><b>Temporal Convolutional Explorer Helps Understand 1D-CNN's Learning Behavior in Time Series Classification from Frequency Domain</b><br>
+	<td class="pub_td1"><div class="teaser_img_div"><a href="https://arxiv.org/abs/2310.05467"><img class="teaser_img" src="/images/teasers/chess.png"/></a></div></td>
+	<td class="pub_td2"><b>Gomoku Game AI Based on Monte Carlo Tree Search</b><br>
 		<div class='paper_metadata'>
-		<u>Junru Zhang</u>,
-	  	Lang Feng,
-	  	Yang He,
-		Yuhan Wu,
-		Yabo Dong
-		<br><i>ACM International Conference on Information & Knowledge Management (CIKM) 2023</i>, long paper, accepted.
-		<br>TL;DR: Explore the learning behavior of 1D-CNNs in TSC tasks and leverage this finding to correct the suboptimal behavior of 1D-CNNs.<br>
+		
+		<br>TL;DR: Achieve human-level AI in the Gomoku game with the forbidden rule.<br>
+		<br>This project develops an AI system for Gomoku that achieves human-level performance through Monte Carlo Tree Search and self-play reinforcement learning. We incorporate the forbidden rule into the reward system, introduce Dirichlet noises in each node to improve exploration, and fine-tune the temperature coefficient for improved performance. <br>
 		</div>
-		[<a href="https://arxiv.org/abs/2310.05467">Paper</a>] [<a href="https://github.com/jrzhang33/TCE">Code</a>]
+		[<a href="https://arxiv.org/abs/2310.05467">PDF</a>] [<a href="https://github.com/jrzhang33/TCE">Code</a>]
 </td></tr>
 {% include table-space.html %}
 
 
 
 <tr>
-	<td class="pub_td1"><div class="teaser_img_div"><a href="https://link.springer.com/chapter/10.1007/978-3-031-43424-2_12"><img class="teaser_img" src="/images/teasers/2023_adacket.png"/></a></div></td>
-	<td class="pub_td2"><b>Adacket: ADAptive Convolutional KErnel Transform for Multivariate Time Series Classification</b><br>
+	<td class="pub_td1"><div class="teaser_img_div"><a href="https://link.springer.com/chapter/10.1007/978-3-031-43424-2_12"><img class="teaser_img" src="/images/teasers/mobile.png"/></a></div></td>
+	<td class="pub_td2"><b>Design and Application of HAR System in Edge Computing Scenarios</b><br>
 		<div class='paper_metadata'>
-		<u>Junru Zhang</u>,
-	  	Lang Feng,
-	  	Haowen Zhang,
-		Yuhan Wu,
-		Yabo Dong
-		<br><i>European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD) 2023</i>, accepted.
-		<br>TL;DR: An adaptive convolutional kernel transform that models the establishment of 1D-CNN as a sequential decision-making problem using the reinforcement learning.<br>
+		<br>TL;DR: A lightweight edge-based CNN architecture for HAR. <br>
+		<br>This project proposes model lightweighting  to reduce resource consumption and enables collaborative inference across cloud, edge, and terminal devices. Our solution has been validated on Raspberry Pi and Alibaba Cloud IoT Platform. <br>
 		</div>
-	[<a href="https://link.springer.com/chapter/10.1007/978-3-031-43424-2_12">Paper</a>] [<a href="https://github.com/jrzhang33/Adacket">Code</a>][<a href="/images/teasers/Slide_Sub754-Adacket-J. Zhang.pdf">Slide</a>] [<a href="/images/teasers/Poster-Sub754-Adacket-J. Zhang.pdf">Poster</a>]
+	[<a href="https://link.springer.com/chapter/10.1007/978-3-031-43424-2_12">PDF</a>] [<a href="https://github.com/jrzhang33/Adacket">Code</a>]
 </td></tr>
 {% include table-space.html %}
 
 
 <tr>
-	<td class="pub_td1"><div class="teaser_img_div"><img class="teaser_img" src="/images/teasers/icassp.png"/></div></td>
-	<td class="pub_td2"><b>HFLA: A Method To Enhance CNN'S High-Frequency Information Learning For Time Series Classification</b><br>
+	<td class="pub_td1"><div class="teaser_img_div"><img class="teaser_img" src="/images/teasers/konwledge.png"/></div></td>
+	<td class="pub_td2"><b>A Knowledge Graph of Characters Relationship</b><br>
 		<div class='paper_metadata'>
-		Yang He,
-		<u>Junru Zhang</u>,
-	  	Yuhan Wu,
-	  	Yabo Dong
-		<br><i>Under review at IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2024 </i>,
-		<br>TL;DR: Leverage multi-level wavelet transform to address the CNN's learning of high-frequency information in time series.<br>
+		<br>TL;DR: Implement relationship extraction and knowledge-based Q\&A for characters.<br>
+		<br> We use BERT + Bi-LSTM + CRF for named entity recognition, train pre-trained models for relationship extraction with OpenNRE, and create a knowledge graph connecting 100+ characters. This project is recognized as an Excellent Knowledge Map Project at ZJU.<br>
 		</div>
+		[<a href="https://link.springer.com/chapter/10.1007/978-3-031-43424-2_12">PDF</a>] [<a href="https://github.com/jrzhang33/Adacket">Code</a>]	
+</td></tr>
+{% include table-space.html %}
+
+<tr>
+	<td class="pub_td1"><div class="teaser_img_div"><img class="teaser_img" src="/images/teasers/station.png"/></div></td>
+	<td class="pub_td2"><b>An Algorithm for Ultra-Dense Network Coverage Planning</b><br>
+		<div class='paper_metadata'>
+		<br>TL;DR:  A novel clustering algorithm called MODPC to optimize base station locations.<br>
+		<br> This study introduces MODPC, a method for aggregating weak coverage areas and identifying candidate base station sites. It utilizes a heuristic approach for site selection, resulting in high coverage and minimal interference in real network coverage scenarios. It also allows for the visualization of site construction effects using the Amap API. <br>
+		</div>
+		[<a href="https://link.springer.com/chapter/10.1007/978-3-031-43424-2_12">PDF</a>] [<a href="https://github.com/jrzhang33/Adacket">Code</a>]	
 		
 </td></tr>
 {% include table-space.html %}
