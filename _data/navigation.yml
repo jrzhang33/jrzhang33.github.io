@@ -3,8 +3,8 @@ main:
   - title: "Publications"
     url: /publications/
 
-  # - title: "Awards"
-  #   url: /awards/
+  - title: "Projcet"
+    url: /project/
 
   - title: "Curriculum Vitae"
     url: /files/cv_langfeng.pdf
