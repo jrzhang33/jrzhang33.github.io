@@ -194,8 +194,9 @@
 
 
 
+
 <tr>
-	<td class="pub_td1"><div class="teaser_img_div"><a href="https://arxiv.org/abs/2310.05467"><img class="teaser_img" src="/images/teasers/2023_tce.png"/></div></td>
+	<td class="pub_td1"><div class="teaser_img_div"><a href="https://arxiv.org/abs/2310.05467"><img class="teaser_img" src="/images/teasers/2023_tce.png"/></a></div></td>
 	<td class="pub_td2"><b>Temporal Convolutional Explorer Helps Understand 1D-CNN's Learning Behavior in Time Series Classification from Frequency Domain</b><br>
 		<div class='paper_metadata'>
 		<u>Junru Zhang</u>,
@@ -211,8 +212,9 @@
 {% include table-space.html %}
 
 
+
 <tr>
-	<td class="pub_td1"><div class="teaser_img_div"><a href="https://link.springer.com/chapter/10.1007/978-3-031-43424-2_12"><img class="teaser_img" src="/images/teasers/2023_adacket.png"/></div></td>
+	<td class="pub_td1"><div class="teaser_img_div"><a href="https://link.springer.com/chapter/10.1007/978-3-031-43424-2_12"><img class="teaser_img" src="/images/teasers/2023_adacket.png"/></a></div></td>
 	<td class="pub_td2"><b>Adacket: ADAptive Convolutional KErnel Transform for Multivariate Time Series Classification</b><br>
 		<div class='paper_metadata'>
 		<u>Junru Zhang</u>,
@@ -229,7 +231,7 @@
 
 
 <tr>
-	<td class="pub_td1"><div class="teaser_img_div"><a href="http://www.joca.cn/EN/10.11772/j.issn.1001-9081.2020030332"><img class="teaser_img" src="/images/teasers/flfec.png"/></div></td>
+	<td class="pub_td1"><div class="teaser_img_div"><a href="http://www.joca.cn/EN/10.11772/j.issn.1001-9081.2020030332"><img class="teaser_img" src="/images/teasers/flsec.png"/></a></div></td>
 	<td class="pub_td2"><b>Federated security tree algorithm for user privacy protection</b><br>
 		<div class='paper_metadata'>
 		<u>Junru Zhang</u>,
@@ -261,7 +263,7 @@
 {% include table-space.html %}
 
 <tr>
-	<td class="pub_td1"><div class="teaser_img_div"><a href="https://ieeexplore.ieee.org/abstract/document/9746865"><img class="teaser_img" src="/images/teasers/clformer.jpg"/></a></div></td>
+	<td class="pub_td1"><div class="teaser_img_div"><a href="https://www.sciencedirect.com/science/article/abs/pii/S0952197623012563"><img class="teaser_img" src="/images/teasers/clformer.png"/></a></div></td>
 	<td class="pub_td2"><b>CLformer: Constraint-based Locality enhanced Transformer for anomaly detection of ancient building structures</b><br>
 		<div class='paper_metadata'>
 		Yuhan Wu, 
@@ -275,7 +277,7 @@
 		<br><i>Engineering Applications of Artificial Intelligence (EAAI) 2023</i>
 		<br>TL;DR: Introduce the constraint-based locality enhanced transformer algorithm with multi-scale causal convolution to enhance local feature extraction and advance warning mechanisms for conserving ancient buildings.<br>
 		</div>
-	[<a href="https://ieeexplore.ieee.org/abstract/document/9746865">Paper</a>]
+	[<a href="https://www.sciencedirect.com/science/article/abs/pii/S0952197623012563">Paper</a>]
 </td></tr>
 {% include table-space.html %}
 
