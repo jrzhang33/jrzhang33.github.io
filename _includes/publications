@@ -194,7 +194,7 @@
 
 
 <tr>
-	<td class="pub_td1"><div class="teaser_img_div"><img class="teaser_img" src="/images/teasers/rlotsc.png"/></a></div></td>
+	<td class="pub_td1"><div class="teaser_img_div"><img class="teaser_img" src="/images/teasers/rlotsc.png"/></div></td>
 	<td class="pub_td2"><b>RL-OTSC: A Reinforcement Learning-Assisted Framework for Continual Online Time Series Classification</b><br>
 		<div class='paper_metadata'>
 		<u>Junru Zhang</u>,
@@ -205,7 +205,7 @@
 		<br><i>Under review at IEEE Transactions on Knowledge and Data Engineering (TKDE) </i>,
 		<br>TL;DR: A novel continual learning framework using RL for online time series classification, balancing stability and plasticity in challenging scenarios.<br>
 		</div>
-		[<a href="https://arxiv.org/abs/2310.05467">Paper</a>] [<a href="https://github.com/jrzhang33/TCE">Code</a>][<a href="/images/teasers/Slide_Sub754-Adacket-J. Zhang.pdf">Slide</a>] [<a href="/images/teasers/Poster-Sub754-Adacket-J. Zhang.pdf">Poster</a>]
+		[<a href="https://arxiv.org/abs/2310.05467">Paper</a>] [<a href="https://github.com/jrzhang33/TCE">Code</a>]
 </td></tr>
 {% include table-space.html %}
 
@@ -241,7 +241,7 @@
 		<br><i>European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD) 2023</i>, accepted.
 		<br>TL;DR: An adaptive convolutional kernel transform that models the establishment of 1D-CNN as a sequential decision-making problem using the reinforcement learning.<br>
 		</div>
-	[<a href="https://link.springer.com/chapter/10.1007/978-3-031-43424-2_12">Paper</a>] [<a href="https://github.com/jrzhang33/Adacket">Code</a>]
+	[<a href="https://link.springer.com/chapter/10.1007/978-3-031-43424-2_12">Paper</a>] [<a href="https://github.com/jrzhang33/Adacket">Code</a>][<a href="/images/teasers/Slide_Sub754-Adacket-J. Zhang.pdf">Slide</a>] [<a href="/images/teasers/Poster-Sub754-Adacket-J. Zhang.pdf">Poster</a>]
 </td></tr>
 {% include table-space.html %}
 
