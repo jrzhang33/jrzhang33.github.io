@@ -205,7 +205,7 @@
 		<br><i>Under review at IEEE Transactions on Knowledge and Data Engineering (TKDE) </i>,
 		<br>TL;DR: A novel continual learning framework using RL for online time series classification, balancing stability and plasticity in challenging scenarios.<br>
 		</div>
-		[<a href="https://arxiv.org/abs/2310.05467">Paper</a>] [<a href="https://github.com/jrzhang33/TCE">Code</a>]
+		[<a href="https://arxiv.org/abs/2310.05467">Paper</a>] [<a href="https://github.com/jrzhang33/TCE">Code</a>][<a href="/images/teasers/Slide_Sub754-Adacket-J. Zhang.pdf">Slide</a>] [<a href="/images/teasers/Poster-Sub754-Adacket-J. Zhang.pdf">Poster</a>]
 </td></tr>
 {% include table-space.html %}
 
