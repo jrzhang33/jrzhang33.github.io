@@ -12,13 +12,16 @@ redirect_from:
 
 <!-- ## About Me -->
 
-I am currently a Ph.D. student at the Department of Computer Science and Technology, Zhejiang University, where I started my program in the fall of 2021. I am under the supervision of Prof. Duanqing Xu and A.Prof. Yabo Dong. My research primarily revolves around the development of deep learning, contrastive/self-supervised learning, and reinforcement learning techniques for time series modeling. One key aspect of my work is dedicated to addressing challenges related to improving deep learning interpretability and model adaptability, thus enhancing the robustness and efficiency of time series models.
-Previously, I earned my B.S. degree from the Department of Computer Science and Technology at Henan Normal University in 2021. During that period, I conducted research on federated learning and mobile edge computing at the Henan Academy of Big Data, under the guidance of Prof. Peiyan Yuan.
+I am currently a Ph.D. student at the Department of Computer Science and Technology, [Zhejiang University](https://www.zju.edu.cn/english/), where I started my program in the fall of 2021. I am under the supervision of [Prof. Duanqing Xu](https://person.zju.edu.cn/en/0092050) and [A.Prof. Yabo Dong](https://person.zju.edu.cn/en/dyb). My research primarily revolves around the development of deep learning, contrastive/self-supervised learning, and reinforcement learning techniques for time series modeling. One key aspect of my work is dedicated to addressing challenges related to improving deep learning interpretability and model adaptability, thus enhancing the robustness and efficiency of time series models.
+Previously, I earned my B.S. degree from the Department of Computer Science and Technology at [Henan Normal University](https://www.htu.edu.cn/english/) in 2021. During that period, I conducted research on federated learning and mobile edge computing at the Henan Academy of Big Data, under the guidance of [Prof. Peiyan Yuan](https://www.scholat.com/yuanpeiyan).
+
+You can find my CV [here](/files/cv_jrzhang.pdf)
+
 <!-- I am currently a master's student in Computer Technology at [Zhejiang University](https://www.zju.edu.cn/english/), where I am doing research on reinforcement learning, multi-agent systems, and spiking neural networks as part of the [AdvanCed Computing aNd SysTem Laboratory](https://www.ccnt.zju.edu.cn/), advised by [Prof. Gang Pan](https://person.zju.edu.cn/en/gpan). Previously, I received my B.Eng. (Hons.) in Information Engineering from [Southeast University](https://www.seu.edu.cn/english/) in June 2021. During that period, I did research on communication optimization at [National Mobile Communications Research Lab](https://ncrl.seu.edu.cn/), advised by [A.P. Liang Wu](https://radio.seu.edu.cn/newenglish/wl_en/main.htm). 
 
 My research interests lie in developing principled and efficient reinforcement learning (RL) algorithms, particularly in multi-agent systems, as well as exploring RL applications in other AI domains and real-world challenges.  -->
 
-You can find my CV [here](/files/cv_langfeng.pdf).
+.
 
 
 <!-- I am currently a master student at [Zhejiang University](https://www.zju.edu.cn/english/), advised by [Prof. Gang Pan](https://person.zju.edu.cn/en/gpan). 
