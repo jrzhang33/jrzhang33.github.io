@@ -247,6 +247,22 @@
 
 
 <tr>
+	<td class="pub_td1"><div class="teaser_img_div"><img class="teaser_img" src="/images/teasers/icassp.png"/></div></td>
+	<td class="pub_td2"><b>HFLA: A Method To Enhance CNN'S High-Frequency Information Learning For Time Series Classification</b><br>
+		<div class='paper_metadata'>
+		Yang He,
+		<u>Junru Zhang</u>,
+	  	Yuhan Wu,
+	  	Yabo Dong
+		<br><i>Under review at IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2024 </i>,
+		<br>TL;DR: Leverage multi-level wavelet transform to address the CNN's learning of high-frequency information in time series.<br>
+		</div>
+		
+</td></tr>
+{% include table-space.html %}
+
+
+<tr>
 	<td class="pub_td1"><div class="teaser_img_div"><a href="http://www.joca.cn/EN/10.11772/j.issn.1001-9081.2020030332"><img class="teaser_img" src="/images/teasers/flsec.png"/></a></div></td>
 	<td class="pub_td2"><b>Federated security tree algorithm for user privacy protection</b><br>
 		<div class='paper_metadata'>
