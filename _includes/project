@@ -194,7 +194,7 @@
 
 
 <tr>
-	<td class="pub_td1"><div class="teaser_img_div"><img class="teaser_img" src="/images/teasers/timetool.png"/></div></td>
+	<td class="pub_td1"><div class="teaser_img_div"><img class="teaser_img" src="/images/teasers/timetool.png" height = "200"/></div></td>
 	<td class="pub_td2"><b>Time-Series Visualization and Interaction Tool</b><br>
 		<div class='paper_metadata'>
 		<br>TL;DR: A web tool capable of analyzing online time series data using various algorithms.<br>
@@ -233,7 +233,7 @@
 
 
 <tr>
-	<td class="pub_td1"><div class="teaser_img_div"><img class="teaser_img" src="/images/teasers/konwledge.png"/></div></td>
+	<td class="pub_td1"><div class="teaser_img_div"><img class="teaser_img" src="/images/teasers/knowledge.png"/></div></td>
 	<td class="pub_td2"><b>A Knowledge Graph of Characters Relationship</b><br>
 		<div class='paper_metadata'>
 		<br>TL;DR: Implement relationship extraction and knowledge-based Q\&A for characters.<br>
