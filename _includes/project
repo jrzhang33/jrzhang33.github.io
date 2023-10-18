@@ -194,7 +194,7 @@
 
 
 <tr>
-	<td class="pub_td1"><div class="teaser_img_div"><img class="teaser_img" src="/images/teasers/timetool.png" height = "200"/></div></td>
+	<td class="pub_td1"><div class="teaser_img_div"><img class="teaser_img" src="/images/teasers/timetool.png" height = "500"/></div></td>
 	<td class="pub_td2"><b>Time-Series Visualization and Interaction Tool</b><br>
 		<div class='paper_metadata'>
 		<br>TL;DR: A web tool capable of analyzing online time series data using various algorithms.<br>
