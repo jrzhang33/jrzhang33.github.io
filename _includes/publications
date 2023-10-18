@@ -192,152 +192,90 @@
 {% include table-space.html %}
 -->
 
-<tr>
-	<td class="pub_td1"><div class="teaser_img_div"><img class="teaser_img" src="/images/teasers/2024_bd.png"/></div></td>
-	<td class="pub_td2"><b>Bidirectional Distillation: A Semi-Self-Play Framework for Multi-Agent Generalizable Behaviors</b><br>
-		<div class='paper_metadata'>
-		<u>Lang Feng</u>,
-	  	Jiahao Lin,
-	  	Dong Xing,
-		Li Zhang,
-		De Ma,
-		Shijian Li,
-		Gang Pan
-		<br><i>Under review at AAAI 2024</i>.
-		<br>TL;DR: Bidirectional Distillation, a semi-self-play framework, enables MARL agents to generate generalizable behaviors for zero-shot teammates.<br>
-		</div>
-</td></tr>
-{% include table-space.html %}
-
 
 
 <tr>
-	<td class="pub_td1"><div class="teaser_img_div"><img class="teaser_img" src="/images/teasers/2023_tce.png"/></div></td>
+	<td class="pub_td1"><div class="teaser_img_div"><a href="https://arxiv.org/abs/2310.05467"><img class="teaser_img" src="/images/teasers/2023_tce.png"/></div></td>
 	<td class="pub_td2"><b>Temporal Convolutional Explorer Helps Understand 1D-CNN's Learning Behavior in Time Series Classification from Frequency Domain</b><br>
 		<div class='paper_metadata'>
-		Junru Zhang,
-	  	<u>Lang Feng</u>,
+		<u>Junru Zhang</u>,
+	  	Lang Feng,
 	  	Yang He,
 		Yuhan Wu,
 		Yabo Dong
 		<br><i>ACM International Conference on Information & Knowledge Management (CIKM) 2023</i>, long paper, accepted.
 		<br>TL;DR: Explore the learning behavior of 1D-CNNs in TSC tasks and leverage this finding to correct the suboptimal behavior of 1D-CNNs.<br>
 		</div>
+		[<a href="https://arxiv.org/abs/2310.05467">Paper</a>] [<a href="https://github.com/jrzhang33/TCE">Code</a>]
 </td></tr>
 {% include table-space.html %}
 
 
-<table class="pub_table">
-	<tr>
-		<td class="pub_td1"><div class="teaser_img_div"><img class="teaser_img" src="/images/teasers/2023_fp3o.png"/></div></td>
-		<td class="pub_td2"><b>FP3O: Enabling Proximal Policy Optimization on Cooperative Multi-Agent Tasks with Diverse Network Types</b><br>
-			<div class='paper_metadata'>
-			  <u>Lang Feng</u>,
-			  Dong Xing,
-			Junru Zhang,
-			Gang pan
-			<br><i>Under review at NeurIPS 2023</i>
-			<br>TL;DR: Full-pipeline paradigm enables the monotonic policy improvement in multi-agent system to be generalizable across various parameter-sharing types (full/partial/non).<br>
-			</div>
-	</td></tr>
-	{% include table-space.html %}
-
 <tr>
-	<td class="pub_td1"><div class="teaser_img_div"><img class="teaser_img" src="/images/teasers/2023_adacket.png"/></div></td>
+	<td class="pub_td1"><div class="teaser_img_div"><a href="https://link.springer.com/chapter/10.1007/978-3-031-43424-2_12"><img class="teaser_img" src="/images/teasers/2023_adacket.png"/></div></td>
 	<td class="pub_td2"><b>Adacket: ADAptive Convolutional KErnel Transform for Multivariate Time Series Classification</b><br>
 		<div class='paper_metadata'>
-		Junru Zhang,
-	  	<u>Lang Feng</u>,
+		<u>Junru Zhang</u>,
+	  	Lang Feng,
 	  	Haowen Zhang,
 		Yuhan Wu,
 		Yabo Dong
 		<br><i>European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD) 2023</i>, accepted.
 		<br>TL;DR: An adaptive convolutional kernel transform that models the establishment of 1D-CNN as a sequential decision-making problem using the reinforcement learning.<br>
 		</div>
+	[<a href="https://link.springer.com/chapter/10.1007/978-3-031-43424-2_12">Paper</a>] [<a href="https://github.com/jrzhang33/Adacket">Code</a>]
 </td></tr>
 {% include table-space.html %}
 
 
 <tr>
-	<td class="pub_td1"><div class="teaser_img_div"><img class="teaser_img" src="/images/teasers/2023_esnn.png"/></div></td>
-	<td class="pub_td2"><b>Efficient Spiking Neural Network Design via Neural Architecture Search</b><br>
+	<td class="pub_td1"><div class="teaser_img_div"><a href="http://www.joca.cn/EN/10.11772/j.issn.1001-9081.2020030332"><img class="teaser_img" src="/images/teasers/flfec.png"/></div></td>
+	<td class="pub_td2"><b>Federated security tree algorithm for user privacy protection</b><br>
 		<div class='paper_metadata'>
-		Jiaqi Yan,
-		Qianhui Liu,
-		Malu Zhang,
-	  	<u>Lang Feng</u>,
-	  	De Ma,
-		Haizhou Li,
-		Gang pan
-		<br><i>Under review at Neural Networks</i>
-		<br>TL;DR: A spiking neural architecture search (NAS) method to automatically find the computationally-efficient subspace of the supernet.<br>
+		<u>Junru Zhang</u>,
+		Xiaoyan Zhao,
+		Peiyan Yuan,
+		<br><i>Journal of Computer Applications</i>
+		<br>TL;DR: A federated algorithm for user behavior prediction, ensuring data privacy while enhancing accuracy and computational efficiency.<br>
 		</div>
+		[<a href="http://www.joca.cn/EN/10.11772/j.issn.1001-9081.2020030332">Paper</a>] 
 </td></tr>
 {% include table-space.html %}
 
 <tr>
-	<td class="pub_td1"><div class="teaser_img_div"><a href="https://doi.org/10.24963/ijcai.2022/343"><img class="teaser_img" src="/images/teasers/2022_MLF.png"/></a></div></td>
-	<td class="pub_td2"><b>Multi-Level Firing with Spiking DS-ResNet: Enabling Better and Deeper Directly-Trained Spiking Neural Networks</b><br>
+	<td class="pub_td1"><div class="teaser_img_div"><a href="https://www.sciencedirect.com/science/article/abs/pii/S0957417423017049"><img class="teaser_img" src="/images/teasers/effective.jpg"/></a></div></td>
+	<td class="pub_td2"><b>Effective LSTMs with seasonal-trend decomposition and adaptive learning and niching-based backtracking search algorithm for time series forecasting</b><br>
 		<div class='paper_metadata'>
-	  	<u>Lang Feng</u>,
-		Qianhui Liu, 
-		Huajin Tang, 
-		De Ma, 
-		Gang Pan
-		<br><i>International Joint Conference on Artificial Intelligence (IJCAI) 2022 </i>
-		<br>TL;DR: Combat the gradient vanishing and network degradation in deep directly-trained spiking neural networks.<br>
+	  	Yuhan Wu,
+		Xiyu Meng, 
+		<u>Junru Zhang</u>, 
+		Yang He, 
+		Joseph A. Romo,
+		Yabo Dong,
+		Dongming Lu
+		<br><i>Expert Systems with Applications (ESWA) 2024 </i>
+		<br>TL;DR: A novel hybrid model to automatically optimize the weights and thresholds within each LSTM through an adaptive learning algorithm.<br>
 		</div>
-	[<a href="https://doi.org/10.24963/ijcai.2022/343">Paper</a>] [<a href="https://github.com/langfengQ/MLF-DSResNet">Code</a>]
+	[<a href="https://www.sciencedirect.com/science/article/abs/pii/S0957417423017049">Paper</a>]
 </td></tr>
 {% include table-space.html %}
 
 <tr>
-	<td class="pub_td1"><div class="teaser_img_div"><a href="https://ieeexplore.ieee.org/abstract/document/9746865"><img class="teaser_img" src="/images/teasers/2022_event.png"/></a></div></td>
-	<td class="pub_td2"><b>Event-Based Multimodal Spiking Neural Network with Attention Mechanism</b><br>
+	<td class="pub_td1"><div class="teaser_img_div"><a href="https://ieeexplore.ieee.org/abstract/document/9746865"><img class="teaser_img" src="/images/teasers/clformer.jpg"/></a></div></td>
+	<td class="pub_td2"><b>CLformer: Constraint-based Locality enhanced Transformer for anomaly detection of ancient building structures</b><br>
 		<div class='paper_metadata'>
-		Qianhui Liu, 
-		Dong Xing, 
-		<u>Lang Feng</u>, 
-		Huajin Tang, 
-		Gang Pan
-		<br><i>IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2022</i>
-		<br>TL;DR: Multimodal learning with attention mechanism enhances the performance of spiking neural networks.<br>
+		Yuhan Wu, 
+		Yabo Dong, 
+		Wentao Zhu,
+		<u>Junru Zhang</u>, 
+		Shijie Liu, 
+		Dongming Lu,
+		Nan Zeng,
+		Yinhui Li
+		<br><i>Engineering Applications of Artificial Intelligence (EAAI) 2023</i>
+		<br>TL;DR: Introduce the constraint-based locality enhanced transformer algorithm with multi-scale causal convolution to enhance local feature extraction and advance warning mechanisms for conserving ancient buildings.<br>
 		</div>
 	[<a href="https://ieeexplore.ieee.org/abstract/document/9746865">Paper</a>]
-</td></tr>
-{% include table-space.html %}
-
-<tr>
-	<td class="pub_td1"><div class="teaser_img_div"><a href="https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/cmu2.12170"><img class="teaser_img" src="/images/teasers/2021_iet.png"/></a></div></td>
-	<td class="pub_td2"><b>Joint Optimization Based Satellite Handover Strategy for Low Earth Orbit Satellite Networks</b><br>
-		<div class='paper_metadata'>
-	  	Yifei Liu,
-		<u>Lang Feng</u>,
-		Liang Wu,
-		Zaichen Zhang,
-		Jian Dang,
-		Bingcheng Zhu,
-		Lei Wang
-		<br><i>IET Communications 2021</i>
-		<br>TL;DR: A joint optimization algorithm is proposed to balance the satellite workloads while guaranteeing service quality in LEO satellite networks.<br>
-		</div>
-	[<a href="https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/cmu2.12170">Paper</a>]
-</td></tr>
-{% include table-space.html %}
-
-<tr>
-	<td class="pub_td1"><div class="teaser_img_div"><a href="https://ieeexplore.ieee.org/abstract/document/9068245"><img class="teaser_img" src="/images/teasers/2020_letter_.png"/></a></div></td>
-	<td class="pub_td2"><b>A Satellite Handover Strategy Based on MIMO Technology in LEO Satellite Networks</b><br>
-		<div class='paper_metadata'>
-	  	<u>Lang Feng</u>,
-	  	Yifei Liu,
-		Liang Wu,
-		Zaichen Zhang,
-		Jian Dang
-		<br><i>IEEE Communications Letters 2020</i>
-		<br>TL;DR: A handover strategy based on the weighted bipartite graph in LEO satellite networks, aiming to maximize the communication quality and balance the network load.<br>
-		</div>
-	[<a href="https://ieeexplore.ieee.org/abstract/document/9068245">Paper</a>]
 </td></tr>
 {% include table-space.html %}
 
