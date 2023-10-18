@@ -18,7 +18,7 @@
 {% include table-space.html %}
 
 <tr>
-  <td class="pub_td1"><div class="teaser_img_div"><a href=""><img class="teaser_img" src="images/teasers/tmi22_teaser.png" /></a></div></td>
+  <td class="pub_td1"><div class="teaser_img_div"><a href=""><img class="teaser_img" src="images/teasers/tmi22_teaser.png" height = "500"/></a></div></td>
   <td class="pub_td2"><b>High Fidelity Medical Image-to-Image Translation with Spatial-Intensity Transforms</b><br />
 		<div class='paper_metadata'>
   	<u>Clinton Wang</u>,
@@ -194,7 +194,7 @@
 
 
 <tr>
-	<td class="pub_td1"><div class="teaser_img_div"><img class="teaser_img" src="/images/teasers/rlotsc.png"/></div></td>
+	<td class="pub_td1"><div class="teaser_img_div"><img class="teaser_img" src="/images/teasers/rlotsc.png" height = "500"/></div></td>
 	<td class="pub_td2"><b>RL-OTSC: A Reinforcement Learning-Assisted Framework for Continual Online Time Series Classification</b><br>
 		<div class='paper_metadata'>
 		<u>Junru Zhang</u>,
@@ -212,7 +212,7 @@
 
 
 <tr>
-	<td class="pub_td1"><div class="teaser_img_div"><a href="https://arxiv.org/abs/2310.05467"><img class="teaser_img" src="/images/teasers/2023_tce.png"/></a></div></td>
+	<td class="pub_td1"><div class="teaser_img_div"><a href="https://arxiv.org/abs/2310.05467"><img class="teaser_img" src="/images/teasers/2023_tce.png" height = "500"/></a></div></td>
 	<td class="pub_td2"><b>Temporal Convolutional Explorer Helps Understand 1D-CNN's Learning Behavior in Time Series Classification from Frequency Domain</b><br>
 		<div class='paper_metadata'>
 		<u>Junru Zhang</u>,
@@ -230,7 +230,7 @@
 
 
 <tr>
-	<td class="pub_td1"><div class="teaser_img_div"><a href="https://link.springer.com/chapter/10.1007/978-3-031-43424-2_12"><img class="teaser_img" src="/images/teasers/2023_adacket.png"/></a></div></td>
+	<td class="pub_td1"><div class="teaser_img_div"><a href="https://link.springer.com/chapter/10.1007/978-3-031-43424-2_12" height = "500"><img class="teaser_img" src="/images/teasers/2023_adacket.png"/></a></div></td>
 	<td class="pub_td2"><b>Adacket: ADAptive Convolutional KErnel Transform for Multivariate Time Series Classification</b><br>
 		<div class='paper_metadata'>
 		<u>Junru Zhang</u>,
@@ -247,7 +247,7 @@
 
 
 <tr>
-	<td class="pub_td1"><div class="teaser_img_div"><img class="teaser_img" src="/images/teasers/icassp.png"/></div></td>
+	<td class="pub_td1"><div class="teaser_img_div"><img class="teaser_img" src="/images/teasers/icassp.png" height = "500"/></div></td>
 	<td class="pub_td2"><b>HFLA: A Method To Enhance CNN'S High-Frequency Information Learning For Time Series Classification</b><br>
 		<div class='paper_metadata'>
 		Yang He,
@@ -263,7 +263,7 @@
 
 
 <tr>
-	<td class="pub_td1"><div class="teaser_img_div"><a href="http://www.joca.cn/EN/10.11772/j.issn.1001-9081.2020030332"><img class="teaser_img" src="/images/teasers/flsec.png" /></a></div></td>
+	<td class="pub_td1"><div class="teaser_img_div"><a href="http://www.joca.cn/EN/10.11772/j.issn.1001-9081.2020030332"><img class="teaser_img" src="/images/teasers/flsec.png" height = "500" /></a></div></td>
 	<td class="pub_td2"><b>Federated security tree algorithm for user privacy protection</b><br>
 		<div class='paper_metadata'>
 		<u>Junru Zhang</u>,
@@ -277,7 +277,7 @@
 {% include table-space.html %}
 
 <tr>
-	<td class="pub_td1"><div class="teaser_img_div"><a href="https://www.sciencedirect.com/science/article/abs/pii/S0957417423017049"><img class="teaser_img" src="/images/teasers/effective.jpg"/></a></div></td>
+	<td class="pub_td1"><div class="teaser_img_div"><a href="https://www.sciencedirect.com/science/article/abs/pii/S0957417423017049"><img class="teaser_img" src="/images/teasers/effective.jpg" height = "500"/></a></div></td>
 	<td class="pub_td2"><b>Effective LSTMs with seasonal-trend decomposition and adaptive learning and niching-based backtracking search algorithm for time series forecasting</b><br>
 		<div class='paper_metadata'>
 	  	Yuhan Wu,
@@ -295,7 +295,7 @@
 {% include table-space.html %}
 
 <tr>
-	<td class="pub_td1"><div class="teaser_img_div"><a href="https://www.sciencedirect.com/science/article/abs/pii/S0952197623012563"><img class="teaser_img" src="/images/teasers/clformer.png"/></a></div></td>
+	<td class="pub_td1"><div class="teaser_img_div"><a href="https://www.sciencedirect.com/science/article/abs/pii/S0952197623012563"><img class="teaser_img" src="/images/teasers/clformer.png" height = "500"/></a></div></td>
 	<td class="pub_td2"><b>CLformer: Constraint-based Locality enhanced Transformer for anomaly detection of ancient building structures</b><br>
 		<div class='paper_metadata'>
 		Yuhan Wu, 

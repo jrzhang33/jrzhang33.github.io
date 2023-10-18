@@ -1,6 +1,6 @@
 <!-- ## Selected Project -->
 
-# Project
+# Projects
 
 <table class="pub_table">
 <!-- 
@@ -207,7 +207,7 @@
 
 
 <tr>
-	<td class="pub_td1"><div class="teaser_img_div"><a href="https://arxiv.org/abs/2310.05467"><img class="teaser_img" src="/images/teasers/chess.png"/></a></div></td>
+	<td class="pub_td1"><div class="teaser_img_div"><a href="https://arxiv.org/abs/2310.05467"><img class="teaser_img" src="/images/teasers/chess.png" height = "500"/></a></div></td>
 	<td class="pub_td2"><b>Gomoku Game AI Based on Monte Carlo Tree Search</b><br>
 		<div class='paper_metadata'>
 		
@@ -221,7 +221,7 @@
 
 
 <tr>
-	<td class="pub_td1"><div class="teaser_img_div"><a href="https://link.springer.com/chapter/10.1007/978-3-031-43424-2_12"><img class="teaser_img" src="/images/teasers/mobile.png"/></a></div></td>
+	<td class="pub_td1"><div class="teaser_img_div"><a href="https://link.springer.com/chapter/10.1007/978-3-031-43424-2_12" height = "500"><img class="teaser_img" src="/images/teasers/mobile.png"/></a></div></td>
 	<td class="pub_td2"><b>Design and Application of HAR System in Edge Computing Scenarios</b><br>
 		<div class='paper_metadata'>
 		<br>TL;DR: A lightweight edge-based CNN architecture for HAR. <br>
@@ -233,7 +233,7 @@
 
 
 <tr>
-	<td class="pub_td1"><div class="teaser_img_div"><img class="teaser_img" src="/images/teasers/knowledge.png"/></div></td>
+	<td class="pub_td1"><div class="teaser_img_div"><img class="teaser_img" src="/images/teasers/knowledge.png" height = "500"/></div></td>
 	<td class="pub_td2"><b>A Knowledge Graph of Characters Relationship</b><br>
 		<div class='paper_metadata'>
 		<br>TL;DR: Implement relationship extraction and knowledge-based Q\&A for characters.<br>
@@ -244,7 +244,7 @@
 {% include table-space.html %}
 
 <tr>
-	<td class="pub_td1"><div class="teaser_img_div"><img class="teaser_img" src="/images/teasers/station.png"/></div></td>
+	<td class="pub_td1"><div class="teaser_img_div"><img class="teaser_img" src="/images/teasers/station.png" height = "500"/></div></td>
 	<td class="pub_td2"><b>An Algorithm for Ultra-Dense Network Coverage Planning</b><br>
 		<div class='paper_metadata'>
 		<br>TL;DR:  A novel clustering algorithm called MODPC to optimize base station locations.<br>
