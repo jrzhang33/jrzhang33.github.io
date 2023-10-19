@@ -194,63 +194,64 @@
 
 
 <tr>
-	<td class="pub_td1"><div class="teaser_img_div"><img class="teaser_img" src="/images/teasers/timetool.png" height = "500"/></div></td>
-	<td class="pub_td2"><b>Time-Series Visualization and Interaction Tool</b><br>
+	<td class="pub_td1"><div class="teaser_img_div"><a href="https://github.com/ruruAC/TimeTool"><img class="teaser_img" src="/images/teasers/timetool.png" height = "500"/></a></div></td>
+	<td class="pub_td2"><b>Time-Series Visualization and Interaction Tool (2022)</b><br>
 		<div class='paper_metadata'>
+	
 		<br>TL;DR: A web tool capable of analyzing online time series data using various algorithms.<br>
 		<br> This project utilizes Streamlit to provide visual result presentation, enhancing data interaction and information retrieval. It also builds a remote API for data stream processing. <br>
 		</div>
-		[<a href="https://arxiv.org/abs/2310.05467">PDF</a>] [<a href="https://github.com/jrzhang33/TCE">Code</a>]
+		[<a href="https://github.com/ruruAC/TimeTool/blob/master/Demo.pdf">PDF</a>] [<a href="https://github.com/ruruAC/TimeTool">Code</a>]
 </td></tr>
 {% include table-space.html %}
 
 
 
 <tr>
-	<td class="pub_td1"><div class="teaser_img_div"><a href="https://arxiv.org/abs/2310.05467"><img class="teaser_img" src="/images/teasers/chess.png" height = "500"/></a></div></td>
-	<td class="pub_td2"><b>Gomoku Game AI Based on Monte Carlo Tree Search</b><br>
+	<td class="pub_td1"><div class="teaser_img_div"><a href="https://github.com/langfengQ/AlphaZero_Gomoku_with_Forbidden"><img class="teaser_img" src="/images/teasers/chess.png" height = "500"/></a></div></td>
+	<td class="pub_td2"><b>Gomoku Game AI Based on Monte Carlo Tree Search (2022)</b><br>
 		<div class='paper_metadata'>
 		
 		<br>TL;DR: Achieve human-level AI in the Gomoku game with the forbidden rule.<br>
 		<br>This project develops an AI system for Gomoku that achieves human-level performance through Monte Carlo Tree Search and self-play reinforcement learning. We incorporate the forbidden rule into the reward system, introduce Dirichlet noises in each node to improve exploration, and fine-tune the temperature coefficient for improved performance. <br>
 		</div>
-		[<a href="https://arxiv.org/abs/2310.05467">PDF</a>] [<a href="https://github.com/jrzhang33/TCE">Code</a>]
+		[<a href="https://langfengq.github.io/files/other_experience/instruction_gomoku_AI.pdf">PDF</a>] [<a href="https://github.com/langfengQ/AlphaZero_Gomoku_with_Forbidden">Code</a>]
 </td></tr>
 {% include table-space.html %}
 
 
 
 <tr>
-	<td class="pub_td1"><div class="teaser_img_div"><a href="https://link.springer.com/chapter/10.1007/978-3-031-43424-2_12" height = "500"><img class="teaser_img" src="/images/teasers/mobile.png"/></a></div></td>
-	<td class="pub_td2"><b>Design and Application of HAR System in Edge Computing Scenarios</b><br>
+	<td class="pub_td1"><div class="teaser_img_div"><a href="https://github.com/ruruAC/HAR_model" ><img class="teaser_img" src="/images/teasers/mobile.png" height = "500"/></a></div></td>
+	<td class="pub_td2"><b>Design and Application of HAR System in Edge Computing Scenarios (2022)</b><br>
 		<div class='paper_metadata'>
 		<br>TL;DR: A lightweight edge-based CNN architecture for HAR. <br>
 		<br>This project proposes model lightweighting  to reduce resource consumption and enables collaborative inference across cloud, edge, and terminal devices. Our solution has been validated on Raspberry Pi and Alibaba Cloud IoT Platform. <br>
 		</div>
-	[<a href="https://link.springer.com/chapter/10.1007/978-3-031-43424-2_12">PDF</a>] [<a href="https://github.com/jrzhang33/Adacket">Code</a>]
+	[<a href="https://github.com/ruruAC/HAR_model/blob/master/HAR.mp4">Vedio</a>] [<a href="https://github.com/ruruAC/HAR_model">Code</a>]
 </td></tr>
 {% include table-space.html %}
 
 
 <tr>
-	<td class="pub_td1"><div class="teaser_img_div"><img class="teaser_img" src="/images/teasers/knowledge.png" height = "500"/></div></td>
-	<td class="pub_td2"><b>A Knowledge Graph of Characters Relationship</b><br>
+	<td class="pub_td1"><div class="teaser_img_div"><a href="http://openkg.cn/dataset/zjrlsyyzhforxyy" ><img class="teaser_img" src="/images/teasers/knowledge.png" height = "500"/></a></div></td>
+	<td class="pub_td2"><b>A Knowledge Graph of Characters Relationship (2021)</b><br>
 		<div class='paper_metadata'>
 		<br>TL;DR: Implement relationship extraction and knowledge-based Q\&A for characters.<br>
 		<br> We use BERT + Bi-LSTM + CRF for named entity recognition, train pre-trained models for relationship extraction with OpenNRE, and create a knowledge graph connecting 100+ characters. This project is recognized as an Excellent Knowledge Map Project at ZJU.<br>
 		</div>
-		[<a href="https://link.springer.com/chapter/10.1007/978-3-031-43424-2_12">PDF</a>] [<a href="https://github.com/jrzhang33/Adacket">Code</a>]	
+		[<a href="http://openkg.cn/dataset/zjrlsyyzhforxyy">PDF</a>] [<a href="http://openkg.cn/dataset/zjrlsyyzhforxyy">Code</a>]	
 </td></tr>
 {% include table-space.html %}
 
 <tr>
-	<td class="pub_td1"><div class="teaser_img_div"><img class="teaser_img" src="/images/teasers/station.png" height = "500"/></div></td>
-	<td class="pub_td2"><b>An Algorithm for Ultra-Dense Network Coverage Planning</b><br>
+	<td class="pub_td1"><div class="teaser_img_div"><a href="https://github.com/ruruAC/MODPC" ><img class="teaser_img" src="/images/teasers/station.png" height = "500"/></a></div></td>
+	<td class="pub_td2"><b>An Algorithm for Ultra-Dense Network Coverage Planning (2021)</b><br>
 		<div class='paper_metadata'>
 		<br>TL;DR:  A novel clustering algorithm called MODPC to optimize base station locations.<br>
 		<br> This study introduces MODPC, a method for aggregating weak coverage areas and identifying candidate base station sites. It utilizes a heuristic approach for site selection, resulting in high coverage and minimal interference in real network coverage scenarios. It also allows for the visualization of site construction effects using the Amap API. <br>
 		</div>
-		[<a href="https://link.springer.com/chapter/10.1007/978-3-031-43424-2_12">PDF</a>] [<a href="https://github.com/jrzhang33/Adacket">Code</a>]	
+		[<a href="https://github.com/ruruAC/MODPC/blob/master/Demo.mp4">Vedio</a>] [<a href="https://github.com/ruruAC/MODPC">Code</a>]	
 		
 </td></tr>
 {% include table-space.html %}

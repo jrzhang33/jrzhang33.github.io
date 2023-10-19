@@ -205,14 +205,14 @@
 		<br><i>Under review at IEEE Transactions on Knowledge and Data Engineering (TKDE) </i>,
 		<br>TL;DR: A novel continual learning framework using RL for online time series classification, balancing stability and plasticity in challenging scenarios.<br>
 		</div>
-		[<a href="https://arxiv.org/abs/2310.05467">Paper</a>] [<a href="https://github.com/jrzhang33/TCE">Code</a>]
+		
 </td></tr>
 {% include table-space.html %}
 
 
 
 <tr>
-	<td class="pub_td1"><div class="teaser_img_div"><a href="https://arxiv.org/abs/2310.05467"><img class="teaser_img" src="/images/teasers/2023_tce.png" height = "800"/></a></div></td>
+	<td class="pub_td1"><div class="teaser_img_div"><a href="https://arxiv.org/abs/2310.05467"><img class="teaser_img" src="/images/teasers/2023_tce.png"/></a></div></td>
 	<td class="pub_td2"><b>Temporal Convolutional Explorer Helps Understand 1D-CNN's Learning Behavior in Time Series Classification from Frequency Domain</b><br>
 		<div class='paper_metadata'>
 		<u>Junru Zhang</u>,
