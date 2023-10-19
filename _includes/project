@@ -194,7 +194,7 @@
 
 
 <tr>
-	<td class="pub_td1"><div class="teaser_img_div"><a href="https://github.com/ruruAC/TimeTool"><img class="teaser_img" src="/images/teasers/timetool.png" height = "500"/></a></div></td>
+	<td class="pub_td1"><div class="teaser_img_div"><a href="https://github.com/ruruAC/TimeTool"><img class="teaser_img" src="/images/teasers/timetool.png" height = "800"/></a></div></td>
 	<td class="pub_td2"><b>Time-Series Visualization and Interaction Tool (2022)</b><br>
 		<div class='paper_metadata'>
 	
@@ -208,7 +208,7 @@
 
 
 <tr>
-	<td class="pub_td1"><div class="teaser_img_div"><a href="https://github.com/langfengQ/AlphaZero_Gomoku_with_Forbidden"><img class="teaser_img" src="/images/teasers/chess.png" height = "500"/></a></div></td>
+	<td class="pub_td1"><div class="teaser_img_div"><a href="https://github.com/langfengQ/AlphaZero_Gomoku_with_Forbidden"><img class="teaser_img" src="/images/teasers/chess.png" height = "800"/></a></div></td>
 	<td class="pub_td2"><b>Gomoku Game AI Based on Monte Carlo Tree Search (2022)</b><br>
 		<div class='paper_metadata'>
 		
@@ -222,7 +222,7 @@
 
 
 <tr>
-	<td class="pub_td1"><div class="teaser_img_div"><a href="https://github.com/ruruAC/HAR_model" ><img class="teaser_img" src="/images/teasers/mobile.png" height = "500"/></a></div></td>
+	<td class="pub_td1"><div class="teaser_img_div"><a href="https://github.com/ruruAC/HAR_model" ><img class="teaser_img" src="/images/teasers/mobile.png" height = "800"/></a></div></td>
 	<td class="pub_td2"><b>Design and Application of HAR System in Edge Computing Scenarios (2022)</b><br>
 		<div class='paper_metadata'>
 		<br>TL;DR: A lightweight edge-based CNN architecture for HAR. <br>
@@ -234,7 +234,7 @@
 
 
 <tr>
-	<td class="pub_td1"><div class="teaser_img_div"><a href="http://openkg.cn/dataset/zjrlsyyzhforxyy" ><img class="teaser_img" src="/images/teasers/knowledge.png" height = "500"/></a></div></td>
+	<td class="pub_td1"><div class="teaser_img_div"><a href="http://openkg.cn/dataset/zjrlsyyzhforxyy" ><img class="teaser_img" src="/images/teasers/knowledge.png" height = "800"/></a></div></td>
 	<td class="pub_td2"><b>A Knowledge Graph of Characters Relationship (2021)</b><br>
 		<div class='paper_metadata'>
 		<br>TL;DR: Implement relationship extraction and knowledge-based Q\&A for characters.<br>
@@ -245,7 +245,7 @@
 {% include table-space.html %}
 
 <tr>
-	<td class="pub_td1"><div class="teaser_img_div"><a href="https://github.com/ruruAC/MODPC" ><img class="teaser_img" src="/images/teasers/station.png" height = "500"/></a></div></td>
+	<td class="pub_td1"><div class="teaser_img_div"><a href="https://github.com/ruruAC/MODPC" ><img class="teaser_img" src="/images/teasers/station.png" height = "800"/></a></div></td>
 	<td class="pub_td2"><b>An Algorithm for Ultra-Dense Network Coverage Planning (2021)</b><br>
 		<div class='paper_metadata'>
 		<br>TL;DR:  A novel clustering algorithm called MODPC to optimize base station locations.<br>
