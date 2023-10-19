@@ -240,7 +240,7 @@
 		<br>TL;DR: Implement relationship extraction and knowledge-based Q\&A for characters.<br>
 		<br> We use BERT + Bi-LSTM + CRF for named entity recognition, train pre-trained models for relationship extraction with OpenNRE, and create a knowledge graph connecting 100+ characters. This project is recognized as an Excellent Knowledge Map Project at ZJU.<br>
 		</div>
-		[<a href="http://openkg.cn/dataset/zjrlsyyzhforxyy">PDF</a>] [<a href="http://openkg.cn/dataset/zjrlsyyzhforxyy">Code</a>]	
+		[<a href="http://openkg1.oss-cn-beijing.aliyuncs.com/83c51cdd-865a-4390-af2d-d83eedfc6269/.pdf">PDF</a>] [<a href="http://openkg.cn/dataset/zjrlsyyzhforxyy">Code</a>]	
 </td></tr>
 {% include table-space.html %}
 
