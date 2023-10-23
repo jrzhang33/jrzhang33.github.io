@@ -237,7 +237,7 @@
 	<td class="pub_td1"><div class="teaser_img_div"><a href="http://openkg.cn/dataset/zjrlsyyzhforxyy" ><img class="teaser_img" src="/images/teasers/knowledge.png" height = "800"/></a></div></td>
 	<td class="pub_td2"><b>A Knowledge Graph of Characters Relationship (2021)</b><br>
 		<div class='paper_metadata'>
-		<br>TL;DR: Implement relationship extraction and knowledge-based Q\&A for characters.<br>
+		<br>TL;DR: Implement relationship extraction and knowledge-based Q&A for characters.<br>
 		<br> We use BERT + Bi-LSTM + CRF for named entity recognition, train pre-trained models for relationship extraction with OpenNRE, and create a knowledge graph connecting 100+ characters. This project is recognized as an Excellent Knowledge Map Project at ZJU.<br>
 		</div>
   [<a href="http://openkg.cn/dataset/zjrlsyyzhforxyy">PDF & Code</a>]	
