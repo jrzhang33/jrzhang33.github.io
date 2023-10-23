@@ -212,7 +212,7 @@
 
 
 <tr>
-	<td class="pub_td1"><div class="teaser_img_div"><a href="https://arxiv.org/abs/2310.05467"><img class="teaser_img" src="/images/teasers/2023_tce.png"/></a></div></td>
+	<td class="pub_td1"><div class="teaser_img_div"><a href="https://dl.acm.org/doi/abs/10.1145/3583780.3615076"><img class="teaser_img" src="/images/teasers/2023_tce.png"/></a></div></td>
 	<td class="pub_td2"><b>Temporal Convolutional Explorer Helps Understand 1D-CNN's Learning Behavior in Time Series Classification from Frequency Domain</b><br>
 		<div class='paper_metadata'>
 		<u>Junru Zhang</u>,
@@ -223,7 +223,7 @@
 		<br><i>ACM International Conference on Information & Knowledge Management (CIKM) 2023</i>, long paper, accepted.
 		<br>TL;DR: Explore the learning behavior of 1D-CNNs in TSC tasks and leverage this finding to correct the suboptimal behavior of 1D-CNNs.<br>
 		</div>
-		[<a href="https://arxiv.org/abs/2310.05467">Paper</a>] [<a href="https://github.com/jrzhang33/TCE">Code</a>][<a href="https://github.com/jrzhang33/TCE/blob/main/TCE-J.%20Zhang.pdf">Slide</a>] 
+		[<a href="https://dl.acm.org/doi/abs/10.1145/3583780.3615076">Paper</a>] [<a href="https://github.com/jrzhang33/TCE">Code</a>][<a href="https://github.com/jrzhang33/TCE/blob/main/TCE-J.%20Zhang.pdf">Slide</a>] 
 </td></tr>
 {% include table-space.html %}
 
