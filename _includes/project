@@ -228,7 +228,7 @@
 		<br>TL;DR: A lightweight edge-based CNN architecture for HAR. <br>
 		<br>This project proposes model lightweighting  to reduce resource consumption and enables collaborative inference across cloud, edge, and terminal devices. Our solution has been validated on Raspberry Pi and Alibaba Cloud IoT Platform. <br>
 		</div>
-	[<a href="https://github.com/ruruAC/HAR_model/blob/master/HAR.mp4">video</a>] [<a href="https://github.com/ruruAC/HAR_model">Code</a>]
+	[<a href="https://github.com/ruruAC/HAR_model/blob/master/HAR.mp4">Video</a>] [<a href="https://github.com/ruruAC/HAR_model">Code</a>]
 </td></tr>
 {% include table-space.html %}
 
@@ -251,7 +251,7 @@
 		<br>TL;DR:  A novel clustering algorithm called MODPC to optimize base station locations.<br>
 		<br> This study introduces MODPC, a method for aggregating weak coverage areas and identifying candidate base station sites. It utilizes a heuristic approach for site selection, resulting in high coverage and minimal interference in real network coverage scenarios. It also allows for the visualization of site construction effects using the Amap API. <br>
 		</div>
-		[<a href="https://github.com/ruruAC/MODPC/blob/master/Demo.mp4">video</a>] [<a href="https://github.com/ruruAC/MODPC">Code</a>]	
+		[<a href="https://github.com/ruruAC/MODPC/blob/master/Demo.mp4">Video</a>] [<a href="https://github.com/ruruAC/MODPC">Code</a>]	
 		
 </td></tr>
 {% include table-space.html %}

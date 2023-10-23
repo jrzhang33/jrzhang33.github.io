@@ -223,7 +223,7 @@
 		<br><i>ACM International Conference on Information & Knowledge Management (CIKM) 2023</i>, long paper, accepted.
 		<br>TL;DR: Explore the learning behavior of 1D-CNNs in TSC tasks and leverage this finding to correct the suboptimal behavior of 1D-CNNs.<br>
 		</div>
-		[<a href="https://arxiv.org/abs/2310.05467">Paper</a>] [<a href="https://github.com/jrzhang33/TCE">Code</a>]
+		[<a href="https://arxiv.org/abs/2310.05467">Paper</a>] [<a href="https://github.com/jrzhang33/TCE">Code</a>][<a href="https://github.com/jrzhang33/TCE/blob/main/TCE-J.%20Zhang.pdf">Slide</a>] 
 </td></tr>
 {% include table-space.html %}
 
