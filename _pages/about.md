@@ -13,7 +13,7 @@ redirect_from:
 <!-- ## About Me -->
 I am currently pursuing my Ph.D. at the Department of Computer Science and Technology at [Zhejiang University](https://www.zju.edu.cn/english/), where I began my program in the fall of 2021. I am fortunate to be under the supervision of [Prof. Duanqing Xu](https://person.zju.edu.cn/en/0092050) and [Prof. Yabo Dong](https://person.zju.edu.cn/en/dyb). Prior to this, I earned my Bachelor of Science degree from the Department of Computer Science and Technology at [Henan Normal University](https://www.htu.edu.cn/english/) in 2021. During my undergraduate studies, I had the opportunity to delve into the fields of federated learning and mobile edge computing at the Henan Academy of Big Data, advised by [Prof. Peiyan Yuan](https://www.scholat.com/yuanpeiyan).
 
-My research primarily focuses on the development and refinement of deep learning, contrastive/self-supervised learning, and reinforcement learning techniques for time series modeling. The key aspects of my work revolve around improving deep learning interpretability and model adaptability, thus enhancing the robustness and efficiency of time series models. 
+My research lie in time series data mining, specifically focusing on the development of deep learning, contrastive/self-supervised learning, and reinforcement learning. The key aspects of my work revolve around improving deep learning interpretability and model adaptability, thus enhancing the robustness and efficiency of time series models. 
 
 
 You can find my CV [here](/files/cv_jrzhang.pdf)
