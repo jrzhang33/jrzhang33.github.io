@@ -199,7 +199,7 @@
 		<div class='paper_metadata'>
 	
 		<br>TL;DR: A web tool capable of analyzing online time series data using various algorithms.<br>
-		<br> This project utilizes Streamlit to provide visual result presentation, enhancing data interaction and information retrieval. It also builds a remote API for data stream processing. <br>
+		<br> This project uses Streamlit to provide visual result presentation, enhancing data interaction and information retrieval. It also builds a remote API for data stream processing. <br>
 		</div>
 		[<a href="https://github.com/ruruAC/TimeTool/blob/master/Demo.pdf">PDF</a>] [<a href="https://github.com/ruruAC/TimeTool">Code</a>]
 </td></tr>
