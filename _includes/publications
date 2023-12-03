@@ -294,6 +294,26 @@
 </td></tr>
 {% include table-space.html %}
 
+
+
+<tr>
+	<td class="pub_td1"><div class="teaser_img_div"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4573970"><img class="teaser_img" src="/images/teasers/kmeans.png" height = "500"/></a></div></td>
+	<td class="pub_td2"><b>Speeding up k-means clustering in high dimensions by pruning unnecessary distance computations
+</b><br>
+		<div class='paper_metadata'>
+	  	Haowen Zhang,
+		Jing Li, 
+		<u>Junru Zhang</u>, 
+		Yabo Dong 
+		
+		<br><i> Knowledge-Based Systems 2023, accepted </i>
+		<br>TL;DR: We propose LBKC, a faster k-means clustering method for high-dimensional data, using innovative lower bounds to maintain accuracy.<br>
+		</div>
+	[<a href="https://www.sciencedirect.com/science/article/abs/pii/S0957417423017049">Paper</a>]
+</td></tr>
+{% include table-space.html %}
+
+
 <tr>
 	<td class="pub_td1"><div class="teaser_img_div"><a href="https://www.sciencedirect.com/science/article/abs/pii/S0952197623012563"><img class="teaser_img" src="/images/teasers/clformer.png" height = "500"/></a></div></td>
 	<td class="pub_td2"><b>CLformer: Constraint-based Locality enhanced Transformer for anomaly detection of ancient building structures</b><br>
