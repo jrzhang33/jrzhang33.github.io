@@ -16,7 +16,7 @@ I am currently pursuing my Ph.D. at the Department of Computer Science and Techn
 My primary research interests lie in time series data mining, specifically focusing on the development of self-supervised learning, transfer learning, and reinforcement learning. The key aspects of my work revolve around improving deep learning interpretability [<a href="https://dl.acm.org/doi/abs/10.1145/3583780.3615076">CIKM'23</a>]  and model adaptability [<a href="https://link.springer.com/chapter/10.1007/978-3-031-43424-2_12">ECML-PKDD'23</a>], thus enhancing the robustness and efficiency of time series models. 
 
 
-You can find my CV [here](/files/cv_jrzhang.pdf)
+<!-- You can find my CV [here](/files/cv_jrzhang.pdf) -->
 
 <!-- I am currently a master's student in Computer Technology at [Zhejiang University](https://www.zju.edu.cn/english/), where I am doing research on reinforcement learning, multi-agent systems, and spiking neural networks as part of the [AdvanCed Computing aNd SysTem Laboratory](https://www.ccnt.zju.edu.cn/), advised by [Prof. Gang Pan](https://person.zju.edu.cn/en/gpan). Previously, I received my B.Eng. (Hons.) in Information Engineering from [Southeast University](https://www.seu.edu.cn/english/) in June 2021. During that period, I did research on communication optimization at [National Mobile Communications Research Lab](https://ncrl.seu.edu.cn/), advised by [A.P. Liang Wu](https://radio.seu.edu.cn/newenglish/wl_en/main.htm). 
 
