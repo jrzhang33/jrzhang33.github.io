@@ -245,7 +245,7 @@
 </td></tr>
 {% include table-space.html %}
 
-
+<!-- 
 <tr>
 	<td class="pub_td1"><div class="teaser_img_div"><img class="teaser_img" src="/images/teasers/icassp.png" height = "500"/></div></td>
 	<td class="pub_td2"><b>HFLA: A Method To Enhance CNN'S High-Frequency Information Learning For Time Series Classification</b><br>
@@ -258,7 +258,7 @@
 		<br>TL;DR: Leverage multi-level wavelet transform to address the CNN's learning of high-frequency information in time series.<br>
 		</div>
 		
-</td></tr>
+</td></tr> -->
 {% include table-space.html %}
 
 
