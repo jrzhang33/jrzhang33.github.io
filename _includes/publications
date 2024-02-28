@@ -193,7 +193,7 @@
 -->
 
 
-<tr>
+<!-- <tr>
 	<td class="pub_td1"><div class="teaser_img_div"><img class="teaser_img" src="/images/teasers/rlotsc.png" height = "500"/></div></td>
 	<td class="pub_td2"><b>RL-OTSC: A Reinforcement Learning-Assisted Framework for Continual Online Time Series Classification</b><br>
 		<div class='paper_metadata'>
@@ -202,12 +202,12 @@
 	  	Zhidan Liu,
 		Yipu Gong,
 		Yabo Dong
-		<br><i>Prepared for submission to IEEE Transactions on Knowledge and Data Engineering (TKDE) </i>,
+		<br><i>Under Review</i>,
 		<br>TL;DR: A novel continual learning framework using RL for online time series classification, balancing stability and plasticity in challenging scenarios.<br>
 		</div>
 		
-</td></tr>
-{% include table-space.html %}
+</td></tr> -->
+<!-- {% include table-space.html %} -->
 
 
 
@@ -254,7 +254,7 @@
 		<u>Junru Zhang</u>,
 	  	Yuhan Wu,
 	  	Yabo Dong
-		<br><i>Under review at IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2024 </i>,
+		<br><i>Under review </i>,
 		<br>TL;DR: Leverage multi-level wavelet transform to address the CNN's learning of high-frequency information in time series.<br>
 		</div>
 		
