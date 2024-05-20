@@ -211,6 +211,23 @@
 
 
 
+ <tr>
+	<td class="pub_td1"><div class="teaser_img_div"><img class="teaser_img" src="/images/teasers/DI2SDiff.png" height = "500"/></div></td>
+	<td class="pub_td2"><b>Diverse Intra- and Inter-Domain Activity Style Fusion for Cross-Perso nGeneralizationin Activity Recognition</b><br>
+		<div class='paper_metadata'>
+		<u>Junru Zhang</u>,
+	  	Lang Feng,
+	  	Zhidan Liu,
+		Yuhan Wu,
+		Yang He,
+		Yabo Dong,
+		Duanqing Xu
+		<br><i>ACM SlGKDD International Conference on Knowledge Discovery & Data Mining (KDD) 2024 (Research Track) </i>,
+		<br>TL;DR: Generate novel and unseen time-series instances with mixed activity styles for training to improve domain generalization performance in HAR.<br>
+		</div>
+		
+</td></tr> 
+
 <tr>
 	<td class="pub_td1"><div class="teaser_img_div"><a href="https://dl.acm.org/doi/abs/10.1145/3583780.3615076"><img class="teaser_img" src="/images/teasers/2023_tce.png"/></a></div></td>
 	<td class="pub_td2"><b>Temporal Convolutional Explorer Helps Understand 1D-CNN's Learning Behavior in Time Series Classification from Frequency Domain</b><br>
