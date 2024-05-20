@@ -1,0 +1,357 @@
+<!-- ## Selected Publications -->
+
+# Publications
+
+<table class="pub_table">
+<!-- 
+<tr>
+  <td class="pub_td1"><div class="teaser_img_div"><a href="http://arxiv.org/abs/2206.01178"><img class="teaser_img" src="images/teasers/2022_dinet.png" /></a></div></td>
+  <td class="pub_td2" bgcolor="FFFFD9"><b>Approximate Discretization Invariance for Deep Learning on Neural Fields</b><br />
+		<div class='paper_metadata'>
+  	<u>Clinton Wang</u>,
+  	<a href="https://people.csail.mit.edu/polina/">Polina Golland</a><br />
+  	<a href="https://necv2022.github.io/"><i>New England Computer Vision Workshop</i></a> 2022 <oral>Oral</oral><br />
+  	<a href="https://www.neurreps.org/"><i>NeurIPS Workshop on Symmetry and Geometry in Neural Representations</i></a> 2022<br />
+  	</div>
+  <a href="/di-net">Project</a> | <a href="http://arxiv.org/abs/2206.01178">Paper</a> | <a href="https://www.youtube.com/watch?v=NlcOBLxbekc">Video</a> | <a href="https://github.com/clintonjwang/DI-net">Code</a>
+</td></tr>
+{% include table-space.html %}
+
+<tr>
+  <td class="pub_td1"><div class="teaser_img_div"><a href=""><img class="teaser_img" src="images/teasers/tmi22_teaser.png" height = "500"/></a></div></td>
+  <td class="pub_td2"><b>High Fidelity Medical Image-to-Image Translation with Spatial-Intensity Transforms</b><br />
+		<div class='paper_metadata'>
+  	<u>Clinton Wang</u>,
+  	<a href="https://www.massgeneral.org/doctors/17477/natalia-rost/">Natalia Rost</a>,
+  	<a href="https://people.csail.mit.edu/polina/">Polina Golland</a><br />
+  	<i>arXiv preprint</i> 2022<br />
+  	</div>
+  <a href="">Paper</a> | <a href="https://github.com/clintonjwang/spatial-intensity-transforms">Code</a> 
+</td></tr>
+{% include table-space.html %}
+
+<tr>
+  <td class="pub_td1"><div class="teaser_img_div"><a href="http://arxiv.org/abs/2208.02895"><img class="teaser_img" src="images/teasers/placenta_teaser.png" /></a></div></td>
+  <td class="pub_td2"><b>Automatic Segmentation of the Placenta in BOLD MRI Time Series</b><br />
+		<div class='paper_metadata'>
+  	<a href="http://people.csail.mit.edu/abulnaga/">Mazdak Abulnaga</a>,
+  	<a href="https://connects.catalyst.harvard.edu/Profiles/display/Person/194239">Sean Young</a>, Katherine Hobgood, Eileen Pan, <u>Clinton Wang</u>,
+  	<a href="https://www.childrenshospital.org/directory/patricia-ellen-grant">Ellen Grant</a>,
+  	<a href="https://www.childrenshospital.org/research/researchers/esra-abaci-turk">Esra Abaci Turk</a>,
+  	<a href="https://people.csail.mit.edu/polina/">Polina Golland</a><br />
+  	<a href="https://pippiworkshop.github.io/"><i>Medical Image Computing and Computer Assisted Intervention PIPPI Workshop</i></a> 2022<br />
+  	</div>
+  <a href="http://arxiv.org/abs/2208.02895">Paper</a> | <a href="https://github.com/mabulnaga/automatic-placenta-segmentation">Code</a>
+</td></tr>
+<tr><td class="pub_td1"></td><td class="pub_td2"></td></tr>
+{% include table-space.html %}
+
+<tr>
+  <td class="pub_td1">
+		<a href="https://shuangli-project.github.io/Pre-Trained-Language-Models-for-Interactive-Decision-Making/">
+			<video width="100%" playsinline="" autoplay="" loop="" preload="" muted="">
+  		<source src="files/21-virtualhome-language.mp4" type="video/mp4">
+			</video>
+		</a>
+	</td>
+  <td class="pub_td2"><b>Pre-Trained Language Models for Interactive Decision-Making</b><br />
+		<div class='paper_metadata'>
+  	<a href="https://people.csail.mit.edu/lishuang/">Shuang Li</a>,
+		<a href="https://people.csail.mit.edu/xavierpuig/">Xavier Puig</a>,
+		<a href="https://cpaxton.github.io/about/">Chris Paxton</a>,
+		<a href="https://yilundu.github.io/">Yilun Du</a>,
+		<u>Clinton Wang</u>,
+		<a href="https://scholar.google.com/citations?user=sljtWIUAAAAJ&hl=en">Linxi Fan</a>,
+		<a href="https://taochenshh.github.io">Tao Chen</a>,
+		<a href="https://ai.stanford.edu/~dahuang/">De-An Huang</a>,
+		<a href="https://www.ekinakyurek.me/">Ekin Akyürek</a>, 
+		<a href="http://tensorlab.cms.caltech.edu/users/anima/">Anima Anandkumar</a>,
+		<a href="https://www.mit.edu/~jda/">Jacob Andreas</a>,
+		<a href="https://scholar.google.com/citations?user=Vzr1RukAAAAJ&hl=en">Igor Mordatch</a>, 
+		<a href="https://groups.csail.mit.edu/vision/torralbalab/">Antonio Torralba</a>,
+		<a href="https://www.cs.utexas.edu/~yukez/">Yuke Zhu</a><br />
+	  <a href="https://neurips.cc/Conferences/2022"><i>NeurIPS</i> 2022</a> <oral>Oral</oral><br />
+		</div>
+  <a href="https://shuangli-project.github.io/Pre-Trained-Language-Models-for-Interactive-Decision-Making/">Project</a> | <a href="https://arxiv.org/abs/2202.01771">Paper</a> | <a href="https://github.com/ShuangLI59/Pre-Trained-Language-Models-for-Interactive-Decision-Making">Code</a> 
+</td></tr>
+{% include table-space.html %}
+
+<tr>
+  <td class="pub_td1"><div class="teaser_img_div"><a href="https://doi.org/10.1007/s00330-020-07559-1"><img class="teaser_img" src="images/teasers/2021_eurorad_paula.png" /></a></div></td>
+  <td class="pub_td2"><b>Deep learning–assisted differentiation of pathologically proven atypical and typical hepatocellular carcinoma (HCC) versus non-HCC on contrast-enhanced MRI of the liver</b><br />
+		<div class='paper_metadata'>
+	  Paula Oestmann, <u>Clinton Wang</u>,
+	  <a href="https://radiologie.charite.de/en/metas/person/person/address_detail/savic/">Lynn Savic</a>, Charlie Hamm, Sophie Stark, Isabel Schobert,
+	  <a href="https://radiologie.charite.de/metas/person/person/address_detail/gebauer-6/">Bernhard Gebauer</a>,
+		<a href="https://medicine.yale.edu/profile/todd_schlachter/">Todd Schlachter</a>,
+		<a href="https://medicine.yale.edu/profile/mingde_lin/">MingDe Lin</a>,
+		<a href="https://medicine.yale.edu/profile/jeffrey_weinreb/">Jeffrey Weinreb</a>,
+		Ramesh Batra, David Mulligan, Xuchen Zhang,
+		<a href="https://medicine.yale.edu/profile/james_duncan/">James Duncan</a>,
+		<a href="https://medicine.yale.edu/profile/julius_chapiro/">Julius Chapiro</a><br />
+	  <a href="https://www.springer.com/journal/330"><i>European Radiology</i></a> 2021<br />
+		</div>
+  <a href="https://doi.org/10.1007/s00330-020-07559-1">Paper</a>
+</td></tr>
+{% include table-space.html %}
+
+<tr>
+  <td class="pub_td1"><div class="teaser_img_div"><a href="https://doi.org/10.1007/978-3-030-59713-9_72"><img class="teaser_img" src="images/teasers/miccai20_teaser.png" /></a></div></td>
+  <td class="pub_td2" bgcolor="FFFFD9"><b>Spatial-Intensity Transform GANs for High Fidelity Medical Image-to-Image Translation</b><br />
+		<div class='paper_metadata'>
+  	<u>Clinton Wang</u>,
+  	<a href="https://www.massgeneral.org/doctors/17477/natalia-rost/">Natalia Rost</a>,
+  	<a href="https://people.csail.mit.edu/polina/">Polina Golland</a><br />
+  	<a href="http://www.miccai.org/"><i>Medical Image Computing and Computer Assisted Intervention</i></a> 2020<br />
+  	<a href="https://www.mitmgb.ai/posters-list/"><i>MIT MGB AI Cures Conference</i></a> 2022 <br />
+  	</div>
+  <a href="/counterfactuals">Project</a> | <a href="https://doi.org/10.1007/978-3-030-59713-9_72">Paper</a> | <a href="https://www.youtube.com/watch?v=n8nPG7xlL-0">Video</a> | <a href="https://github.com/clintonjwang/spatial-intensity-transforms">Code</a> 
+</td></tr>
+{% include table-space.html %}
+
+<tr>
+  <td class="pub_td1"><div class="teaser_img_div"><a href="https://doi.org/10.1038/s41598-020-75120-7"><img class="teaser_img" src="images/teasers/2020_scireports.png" /></a></div></td>
+  <td class="pub_td2"><b>Automated feature quantification of Lipiodol as imaging biomarker to predict therapeutic efficacy of conventional transarterial chemoembolization of liver cancer</b><br />
+		<div class='paper_metadata'>
+	  Sophie Stark, <u>Clinton Wang</u>,
+	  <a href="https://radiologie.charite.de/en/metas/person/person/address_detail/savic/">Lynn Savic</a>,
+	  <a href="https://www.linkedin.com/in/brian-letzen-m-d-m-s-74a364b/">Brian Letzen</a>,
+	  Isabel Schobert, Milena Miszczuk, Nikitha Murali, Paula Oestmann, Bernhard Gebauer, 
+		<a href="https://medicine.yale.edu/profile/mingde_lin/">MingDe Lin</a>,
+		<a href="https://medicine.yale.edu/profile/james_duncan/">James Duncan</a>,
+		<a href="https://medicine.yale.edu/profile/todd_schlachter/">Todd Schlachter</a>,
+		<a href="https://medicine.yale.edu/profile/julius_chapiro/">Julius Chapiro</a><br />
+	  <a href="https://www.nature.com/srep/about"><i>Scientific Reports</i></a> 2020<br />
+		</div>
+  <a href="https://doi.org/10.1038/s41598-020-75120-7">Paper</a> | <a href="https://github.com/clintonjwang/lipiodol">Code</a>
+</td></tr>
+{% include table-space.html %}
+
+-->
+
+<!-- <tr><td class="year_heading">2019<hr class="year_hr_wteaser"></td></tr> 
+<tr>
+	<td class="pub_td1"><div class="teaser_img_div"><a href="https://doi.org/10.1117/12.2512473"><img class="teaser_img" src="images/teasers/spie19_teaser.jpg"/></a></div></td>
+	<td class="pub_td2" bgcolor="FFFFD9"><b>A probabilistic approach for interpretable deep learning in liver cancer diagnosis</b><br>
+		<div class='paper_metadata'>
+		<u>Clinton Wang</u>, Charlie Hamm,
+	  <a href="https://www.linkedin.com/in/brian-letzen-m-d-m-s-74a364b/">Brian Letzen</a>,
+		<a href="https://medicine.yale.edu/profile/james_duncan/">James Duncan</a><br>
+		<a href="https://spie.org/conferences-and-exhibitions/medical-imaging?SSO=1"><i>SPIE Medical Imaging Conference</i></a> 2019 <oral>Oral</oral><br>
+		</div>
+	<a href="/interpretability">Project</a> | <a href="https://doi.org/10.1117/12.2512473">Paper</a> | <a href="https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10950/2512473/A-probabilistic-approach-for-interpretable-deep-learning-in-liver-cancer/10.1117/12.2512473.full">Talk</a> | <a href="https://github.com/clintonjwang/voi-classifier">Code</a>
+</td></tr>
+{% include table-space.html %}
+
+<tr>
+	<td class="pub_td1"><div class="teaser_img_div"><a href="https://doi.org/10.1007/s00330-019-06214-8"><img class="teaser_img" src="images/teasers/2020_eurorad_part2.png"/></a></div></td>
+	<td class="pub_td2" bgcolor="FFFFD9"><b>Deep learning for liver tumor diagnosis part II: interpretable deep learning to characterize tumor features</b><br>
+		<div class='paper_metadata'>
+		<u>Clinton Wang</u>*, Charlie Hamm*,
+	  <a href="https://radiologie.charite.de/en/metas/person/person/address_detail/savic/">Lynn Savic</a>, Marc Ferrante, Isabel Schobert,
+		<a href="https://medicine.yale.edu/profile/todd_schlachter/">Todd Schlachter</a>,
+		<a href="https://medicine.yale.edu/profile/mingde_lin/">MingDe Lin</a>,
+		<a href="https://medicine.yale.edu/profile/jeffrey_weinreb/">Jeffrey Weinreb</a>,
+		<a href="https://medicine.yale.edu/profile/james_duncan/">James Duncan</a>,
+		<a href="https://medicine.yale.edu/profile/julius_chapiro/">Julius Chapiro</a>,
+	  <a href="https://www.linkedin.com/in/brian-letzen-m-d-m-s-74a364b/">Brian Letzen</a><br>
+	  <a href="https://www.springer.com/journal/330"><i>European Radiology</i></a> 2019<br>
+		</div>
+	<a href="/interpretability">Project</a> | <a href="https://doi.org/10.1007/s00330-019-06214-8">Paper</a> | <a href="https://github.com/clintonjwang/voi-classifier/tree/part2">Code</a>
+</td></tr>
+{% include table-space.html %}
+
+<tr>
+	<td class="pub_td1"><div class="teaser_img_div"><a href="https://doi.org/10.1007/s00330-019-06205-9"><img class="teaser_img" src="images/teasers/2020_eurorad_part1.png"/></a></div></td>
+	<td class="pub_td2"><b>Deep learning for liver tumor diagnosis part I: development of a convolutional neural network classifier for multi-phasic MRI</b><br>
+		<div class='paper_metadata'>
+		Charlie Hamm*, <u>Clinton Wang</u>*, Marc Ferrante, Isabel Schobert,
+		<a href="https://medicine.yale.edu/profile/todd_schlachter/">Todd Schlachter</a>,
+		<a href="https://medicine.yale.edu/profile/mingde_lin/">MingDe Lin</a>, 
+		<a href="https://medicine.yale.edu/profile/james_duncan/">James Duncan</a>, 
+		<a href="https://medicine.yale.edu/profile/jeffrey_weinreb/">Jeffrey Weinreb</a>,
+		<a href="https://medicine.yale.edu/profile/julius_chapiro/">Julius Chapiro</a>,
+	  <a href="https://www.linkedin.com/in/brian-letzen-m-d-m-s-74a364b/">Brian Letzen</a><br>
+	  <a href="https://www.springer.com/journal/330"><i>European Radiology</i></a> 2019<br>
+		</div>
+	<a href="https://doi.org/10.1007/s00330-019-06205-9">Paper</a> | <a href="https://github.com/clintonjwang/voi-classifier/tree/part1">Code</a>
+</td></tr>
+{% include table-space.html %}
+
+
+<tr>
+	<td class="pub_td1"><div class="teaser_img_div"><a href="https://doi.org/10.1016/j.yjmcc.2015.10.007"><img class="teaser_img" src="images/teasers/mybpc_jmcc.png"/></a></div></td>
+	<td class="pub_td2"><b>Slowing of contractile kinetics by myosin-binding protein C can be explained by its cooperative binding to the thin filament</b><br>
+		<div class='paper_metadata'>
+		<u>Clinton Wang</u>, Jonas Schwan,
+		<a href="https://seas.yale.edu/faculty-research/faculty-directory/stuart-campbell">Stuart Campbell</a>
+		<br><i>Journal of Molecular and Cellular Cardiology</i> 2016<br>
+		</div>
+	<a href="https://doi.org/10.1016/j.yjmcc.2015.10.007">Paper</a>
+</td></tr>
+{% include table-space.html %}
+-->
+
+
+<!-- <tr>
+	<td class="pub_td1"><div class="teaser_img_div"><img class="teaser_img" src="/images/teasers/rlotsc.png" height = "500"/></div></td>
+	<td class="pub_td2"><b>RL-OTSC: A Reinforcement Learning-Assisted Framework for Continual Online Time Series Classification</b><br>
+		<div class='paper_metadata'>
+		<u>Junru Zhang</u>,
+	  	Yang He,
+	  	Zhidan Liu,
+		Yipu Gong,
+		Yabo Dong
+		<br><i>Under Review</i>,
+		<br>TL;DR: A novel continual learning framework using RL for online time series classification, balancing stability and plasticity in challenging scenarios.<br>
+		</div>
+		
+</td></tr> -->
+<!-- {% include table-space.html %} -->
+
+
+
+<tr>
+	<td class="pub_td1"><div class="teaser_img_div"><a href="https://dl.acm.org/doi/abs/10.1145/3583780.3615076"><img class="teaser_img" src="/images/teasers/2023_tce.png"/></a></div></td>
+	<td class="pub_td2"><b>Temporal Convolutional Explorer Helps Understand 1D-CNN's Learning Behavior in Time Series Classification from Frequency Domain</b><br>
+		<div class='paper_metadata'>
+		<u>Junru Zhang</u>,
+	  	Lang Feng,
+	  	Yang He,
+		Yuhan Wu,
+		Yabo Dong
+		<br><i>ACM International Conference on Information & Knowledge Management (CIKM) 2023</i>, long paper, accepted.
+		<br>TL;DR: Explore the learning behavior of 1D-CNNs in TSC tasks and leverage this finding to correct the suboptimal behavior of 1D-CNNs.<br>
+		</div>
+		[<a href="https://dl.acm.org/doi/abs/10.1145/3583780.3615076">Paper</a>] [<a href="https://github.com/jrzhang33/TCE">Code</a>][<a href="https://github.com/jrzhang33/TCE/blob/main/TCE-J.%20Zhang.pdf">Slide</a>] 
+</td></tr>
+{% include table-space.html %}
+
+
+
+<tr>
+	<td class="pub_td1"><div class="teaser_img_div"><a href="https://link.springer.com/chapter/10.1007/978-3-031-43424-2_12" height = "500"><img class="teaser_img" src="/images/teasers/2023_adacket.png"/></a></div></td>
+	<td class="pub_td2"><b>Adacket: ADAptive Convolutional KErnel Transform for Multivariate Time Series Classification</b><br>
+		<div class='paper_metadata'>
+		<u>Junru Zhang</u>,
+	  	Lang Feng,
+	  	Haowen Zhang,
+		Yuhan Wu,
+		Yabo Dong
+		<br><i>European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD) 2023</i>, accepted.
+		<br>TL;DR: An adaptive convolutional kernel transform that models the establishment of 1D-CNN as a sequential decision-making problem using the reinforcement learning.<br>
+		</div>
+	[<a href="https://link.springer.com/chapter/10.1007/978-3-031-43424-2_12">Paper</a>] [<a href="https://github.com/jrzhang33/Adacket">Code</a>][<a href="/images/teasers/Slide_Sub754-Adacket-J. Zhang.pdf">Slide</a>] [<a href="/images/teasers/Poster-Sub754-Adacket-J. Zhang.pdf">Poster</a>]
+</td></tr>
+{% include table-space.html %}
+
+<!-- 
+<tr>
+	<td class="pub_td1"><div class="teaser_img_div"><img class="teaser_img" src="/images/teasers/icassp.png" height = "500"/></div></td>
+	<td class="pub_td2"><b>HFLA: A Method To Enhance CNN'S High-Frequency Information Learning For Time Series Classification</b><br>
+		<div class='paper_metadata'>
+		Yang He,
+		<u>Junru Zhang</u>,
+	  	Yuhan Wu,
+	  	Yabo Dong
+		<br><i>Under review </i>,
+		<br>TL;DR: Leverage multi-level wavelet transform to address the CNN's learning of high-frequency information in time series.<br>
+		</div>
+		
+</td></tr> -->
+{% include table-space.html %}
+
+
+<tr>
+	<td class="pub_td1"><div class="teaser_img_div"><a href="http://www.joca.cn/EN/10.11772/j.issn.1001-9081.2020030332"><img class="teaser_img" src="/images/teasers/flsec.png" height = "500" /></a></div></td>
+	<td class="pub_td2"><b>Federated security tree algorithm for user privacy protection</b><br>
+		<div class='paper_metadata'>
+		<u>Junru Zhang</u>,
+		Xiaoyan Zhao,
+		Peiyan Yuan,
+		<br><i>Journal of Computer Applications 2023, accepted </i>
+		<br>TL;DR: A federated algorithm for user behavior prediction, ensuring data privacy while enhancing accuracy and computational efficiency.<br>
+		</div>
+		[<a href="http://www.joca.cn/EN/10.11772/j.issn.1001-9081.2020030332">Paper</a>] 
+</td></tr>
+{% include table-space.html %}
+
+<tr>
+	<td class="pub_td1"><div class="teaser_img_div"><a href="https://www.sciencedirect.com/science/article/abs/pii/S0957417423017049"><img class="teaser_img" src="/images/teasers/effective.jpg" height = "500"/></a></div></td>
+	<td class="pub_td2"><b>Effective LSTMs with seasonal-trend decomposition and adaptive learning and niching-based backtracking search algorithm for time series forecasting</b><br>
+		<div class='paper_metadata'>
+	  	Yuhan Wu,
+		Xiyu Meng, 
+		<u>Junru Zhang</u>, 
+		Yang He, 
+		Joseph A. Romo,
+		Yabo Dong,
+		Dongming Lu
+		<br><i>Expert Systems with Applications (ESWA) 2024, accepted </i>
+		<br>TL;DR: A novel hybrid model to automatically optimize the weights and thresholds within each LSTM through an adaptive learning algorithm.<br>
+		</div>
+	[<a href="https://www.sciencedirect.com/science/article/abs/pii/S0957417423017049">Paper</a>]
+</td></tr>
+{% include table-space.html %}
+
+
+
+<tr>
+	<td class="pub_td1"><div class="teaser_img_div"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4573970"><img class="teaser_img" src="/images/teasers/kmeans.png" height = "500"/></a></div></td>
+	<td class="pub_td2"><b>Speeding up k-means clustering in high dimensions by pruning unnecessary distance computations
+</b><br>
+		<div class='paper_metadata'>
+	  	Haowen Zhang,
+		Jing Li, 
+		<u>Junru Zhang</u>, 
+		Yabo Dong 
+		
+		<br><i> Knowledge-Based Systems 2023, accepted </i>
+		<br>TL;DR: We propose LBKC, a faster k-means clustering method for high-dimensional data, using innovative lower bounds to maintain accuracy.<br>
+		</div>
+	[<a href="https://www.sciencedirect.com/science/article/abs/pii/S0957417423017049">Paper</a>]
+</td></tr>
+{% include table-space.html %}
+
+
+<tr>
+	<td class="pub_td1"><div class="teaser_img_div"><a href="https://www.sciencedirect.com/science/article/abs/pii/S0952197623012563"><img class="teaser_img" src="/images/teasers/clformer.png" height = "500"/></a></div></td>
+	<td class="pub_td2"><b>CLformer: Constraint-based Locality enhanced Transformer for anomaly detection of ancient building structures</b><br>
+		<div class='paper_metadata'>
+		Yuhan Wu, 
+		Yabo Dong, 
+		Wentao Zhu,
+		<u>Junru Zhang</u>, 
+		Shijie Liu, 
+		Dongming Lu,
+		Nan Zeng,
+		Yinhui Li
+		<br><i>Engineering Applications of Artificial Intelligence (EAAI) 2023, accepted</i>
+		<br>TL;DR: Introduce the constraint-based locality enhanced transformer algorithm with multi-scale causal convolution to enhance local feature extraction and advance warning mechanisms for conserving ancient buildings.<br>
+		</div>
+	[<a href="https://www.sciencedirect.com/science/article/abs/pii/S0952197623012563">Paper</a>]
+</td></tr>
+{% include table-space.html %}
+
+</table>
+
+
+
+<!-- <tr>
+	<td class="pub_td1"><b>Multi-Level Firing with Spiking DS-ResNet: Enabling Better and Deeper Directly-Trained Spiking Neural Networks</b><br>
+		<div class='paper_metadata'>
+	  	<u>Lang Feng</u>,
+		Qianhui Liu, 
+		Huajin Tang, 
+		De Ma, 
+		Gang Pan
+		<br><i>International Joint Conference on Artificial Intelligence (IJCAI)</i> 2022<br>
+		</div>
+		<div class="teaser_img_div"><a href="https://doi.org/10.24963/ijcai.2022/343"><img class="teaser_img" src="/images/teasers/2022_MLF.png"/></a></div>
+
+	<td class="pub_td2"><p><font size="2">Abstract: Spiking neural networks (SNNs) are bio-inspired neural networks with asynchronous discrete and sparse characteristics, which have increasingly manifested their superiority in low energy consumption. Recent research is devoted to utilizing spatio-temporal information to directly train SNNs by backpropagation. However, the binary and non-differentiable properties of spike activities force directly trained SNNs to suffer from serious gradient vanishing and network degradation, which greatly limits the performance of directly trained SNNs and prevents them from going deeper. In this paper, we propose a multi-level firing (MLF) method based on the existing spatio-temporal back propagation (STBP) method, and spiking dormant-suppressed residual network (spiking DS-ResNet). MLF enables more efficient gradient propagation and the incremental expression ability of the neurons. Spiking DS-ResNet can efficiently perform identity mapping of discrete spikes, as well as provide a more suitable connection for gradient propagation in deep SNNs. With the proposed method, our model achieves superior performances on a non-neuromorphic dataset and two neuromorphic datasets with much fewer trainable parameters and demonstrates the great ability to combat the gradient vanishing and degradation problem in deep SNNs.</font></p></td>
+	[<a href="https://doi.org/10.24963/ijcai.2022/343">Paper</a>] [<a href="https://github.com/langfengQ/MLF-DSResNet">Code</a>]
+</td></tr>
+{% include table-space.html %} -->
+
+<!-- </table> -->

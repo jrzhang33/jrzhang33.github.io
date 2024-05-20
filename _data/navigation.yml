@@ -1,0 +1,13 @@
+# main links links
+main:
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Projects"
+    url: /project/
+
+  # - title: "Curriculum Vitae"
+  #   url: /files/cv_jrzhang.pdf
+
+  - title: "Contact"
+    url: /contact/

@@ -1,0 +1,145 @@
+{% include base_path %}
+
+{% if post.header.teaser %}
+  {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
+{% else %}
+  {% assign teaser = site.teaser %}
+{% endif %}
+
+{% if post.id %}
+  {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
+{% else %}
+  {% assign title = post.title %}
+{% endif %}
+
+<div class="{{ include.type | default: "list" }}__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    {% if include.type == "grid" and teaser %}
+      <div class="archive__item-teaser">
+        <img src=
+          {% if teaser contains "://" %}
+            "{{ teaser }}"
+          {% else %}
+            "{{ teaser | prepend: "/images/" | prepend: base_path }}"
+          {% endif %}
+          alt="">
+      </div>
+    {% endif %}
+
+    {% if post.collection == 'publications' or post.collection == 'publicationsphysics' %}
+      {% if post.status == "preprint" %}
+      <h3 class="archive__item-title" itemprop="headline" style="margin-bottom:-15px">
+        {% if post.link %}
+        [{{ post.counter_id }}] <a href="{{ post.link }}" style="color:#888888;">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" style="color:#888888;" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
+        {% else %}
+        [{{ post.counter_id }}] <a href="{{ base_path }}{{ post.url }}" style="color:#888888;" rel="permalink">{{ title }}</a>
+        {% endif %}
+      </h3>
+      {% else %}
+      <h3 class="archive__item-title" itemprop="headline" style="margin-bottom:-15px;">
+        {% if post.link %}
+        [{{ post.counter_id }}] <a href="{{ post.link }}" style="color:#992017;">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
+        {% else %}
+        [{{ post.counter_id }}] <a href="{{ base_path }}{{ post.url }}" style="color:#992017;" rel="permalink">{{ title }}</a>
+        {% endif %}
+      </h3>
+      {% endif %}
+    {% else %}
+      <h3 class="archive__item-title" itemprop="headline" style="margin-bottom:-15px;">
+        {% if post.link %}
+        <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
+        {% else %}
+        <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
+        {% endif %}
+      </h3>
+    {%endif %}
+    
+    {% if post.read_time %}
+      <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
+    {% endif %}
+
+        {% if post.collection == 'teaching' %}
+          <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%month, %Y" }} </p>
+        {% elsif post.collection == 'publications' or post.collection == 'publicationsphysics' %}
+          {% if post.status == "accepted" %}
+          <p style="padding-top:0; margin-bottom:9px;"> {{ post.authors }} <br>
+            <b>{{ post.date | default: "1900-01-01" | date: "%B, %Y" }}</b>. Accepted to {{ post.venue }} <span style="color:#888888;">({{ post.level }})</span>. <span style="color:#ad7f00;"><b>{{ post.award }}</b></span></p>
+          {% elsif post.status == "preprint" %}
+          <p style="padding-top:0; margin-bottom:9px;"> {{ post.authors }} <br>
+            <span style="color:#888888;"><b>{{ post.date | default: "1900-01-01" | date: "%B, %Y" }}</b></span>. Published in the <span style="color:#888888;">{{ post.venue }}</span>.</p>
+          {% else %}
+          <p style="padding-top:0; margin-bottom:9px;"> {{ post.authors }} <br>
+            <b>{{ post.date | default: "1900-01-01" | date: "%B, %Y" }}</b>. Published in the {{ post.venue }} <span style="color:#888888;">({{ post.level }})</span>. <span style="color:#ad7f00;"><b>{{ post.award }}</b></span></p>
+          {% endif %}
+
+          {% if post.status == "preprint" %}
+          {% assign color = "btn--researchpreprint" %}
+          {% else %}
+          {% assign color = "btn--research" %}
+          {% endif %}
+
+          {% if post.paperurl %}
+          <a class="{{ color }}" href="{{ post.paperurl }}">DOI</a>
+          {% endif %}
+          {% if post.pdf %}
+          <a class="{{ color }}" href="{{ post.pdf }}">Pre-print</a>
+          {% endif %}
+          {% if post.data %}
+          <a class="{{ color }}" href="{{ post.data }}">Data</a>
+          {% endif %}
+          {% if post.tool %}
+          <a class="{{ color }}" href="{{ post.tool }}">Tool</a>
+          {% endif %}
+          {% if post.github %}
+          <a class="{{ color }}" href="{{ post.github }}">GitHub</a>
+          {% endif %}
+          {% if post.video %}
+          <a class="{{ color }}" href="{{ post.video }}">Video</a>
+          {% endif %}
+        {% elsif post.collection == 'tools' %}
+
+          {% if post.tag %}
+          <p style="padding-top:0; margin-bottom:9px;">{{ post.tag }}</p>
+          {% endif %}
+          {% if post.tool %}
+          <a class="btn--research" href="{{ post.tool }}">Tool</a>
+          {% endif %}
+          {% if post.video %}
+          <a class="btn--research" href="{{ post.video }}">Video</a>
+          {% endif %}
+          {% if post.paperurl %}
+          <a class="btn--research" href="{{ post.paperurl }}">Paper DOI</a>
+          {% endif %}
+          {% if post.pdf %}
+          <a class="btn--research" href="{{ post.pdf }}">Paper pre-print</a>
+          {% endif %}
+          {% if post.data %}
+          <a class="btn--research" href="{{ post.data }}">Data</a>
+          {% endif %}
+          {% if post.github %}
+          <a class="btn--research" href="{{ post.github }}">GitHub</a>
+          {% endif %}
+          {% if post.award %}
+          <p style="padding-top:0; padding-bottom:0; margin-top:-2px;"><span style="color:#ad7f00;"><b>{{ post.award }}</b></span></p>
+          {% endif %}
+
+        {% elsif post.date %}
+         <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
+        {% endif %}
+
+<!--    {% if post.excerpt and site.read_more != 'enabled' %}-->
+<!--    <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>-->
+<!--    {% elsif post.excerpt and site.read_more == 'enabled' %}-->
+<!--    <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>-->
+<!--    {% endif %}-->
+    
+<!--    {% if post.citation and post.paperurl %}-->
+<!--      <p>Recommended citation: {{ post.citation }} <a href="{{ post.paperurl }}"><u>{{ post.paperurl }}</u></a></p>-->
+<!--    {% elsif post.citation %}-->
+<!--      <p>Recommended citation: {{ post.citation }} </p>-->
+<!--    {% elsif post.paperurl %}-->
+<!--      <p>Download <a href=" {{ post.paperurl }} "><u>here</u></a></p>-->
+<!--    {% endif %}-->
+
+  </article>
+</div>
