@@ -58,10 +58,11 @@ My primary research interests lie in sensor-based time series data mining, speci
   font-family: Arial, sans-serif;
   font-size: 0.8em;
   font-weight: bold;
+  font-style: italic;
 }
 </style>
 <script>
-document.write('<span class="date">Updated date: </span>' + document.lastModified);
+document.write('<span class="date"><em>Updated date: </em>' + '<em>' + document.lastModified + '</em></span>');
 </script>
 </footer>
 
