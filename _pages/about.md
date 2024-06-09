@@ -15,6 +15,12 @@ I am currently pursuing my Ph.D. at the Department of Computer Science and Techn
 <!-- During my undergraduate studies, I had the opportunity to delve into the fields of federated learning and mobile edge computing at the Henan Academy of Big Data, advised by [Prof. Peiyan Yuan](https://www.scholat.com/yuanpeiyan). -->
 
 My primary research interests lie in sensor-based time series data mining, specifically focusing on the development of self-supervised learning, transfer learning, and reinforcement learning. 
+
+<script>
+document.write('Updated date：' + document.lastModified);
+</script>
+
+
  <!-- The key aspects of my work revolve around improving deep learning interpretability [<a href="https://dl.acm.org/doi/abs/10.1145/3583780.3615076">CIKM'23</a>]  and model adaptability [<a href="https://link.springer.com/chapter/10.1007/978-3-031-43424-2_12">ECML-PKDD'23</a>], thus enhancing the robustness and efficiency of time series models.  -->
 
 
