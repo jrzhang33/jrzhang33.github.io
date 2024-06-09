@@ -364,7 +364,7 @@
 		<br><i> Knowledge-Based Systems 2023, accepted </i>
 		<br>TL;DR: We propose LBKC, a faster k-means clustering method for high-dimensional data, using innovative lower bounds to maintain accuracy.<br>
 		</div>
-	[<a href="https://www.sciencedirect.com/science/article/abs/pii/S0957417423017049">Paper</a>]
+	[<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4573970">Paper</a>]
 </td></tr>
 {% include table-space.html %}
 
