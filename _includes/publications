@@ -296,7 +296,7 @@
 
 
 <tr>
-	<td class="pub_td1"><div class="teaser_img_div"><img class="teaser_img" src="/images/teasers/2024ecml.png" height = "500"/></div></td>
+	<td class="pub_td1"><div class="teaser_img_div"><img class="teaser_img" src="/images/teasers/2024_ecml.png" height = "500"/></div></td>
 	<td class="pub_td2"><b>LTCR: Long Temporal Characteristic Reconstruction for Segmentation in Contrastive Learning</b><br>
 		<div class='paper_metadata'>
 			Yang He,

@@ -17,6 +17,39 @@ I am currently pursuing my Ph.D. at the Department of Computer Science and Techn
 My primary research interests lie in sensor-based time series data mining, specifically focusing on the development of self-supervised learning, transfer learning, and reinforcement learning. 
 
 
+<style>
+.news-title {
+  font-family: Arial, sans-serif;
+  font-size: 2em;
+  font-weight: bold;
+  color: blue;
+  display: block;
+}
+.news-content {
+  font-family: Arial, sans-serif;
+  font-size: 0.8em;
+  font-weight: bold;
+}
+</style>
+
+<span class="news-title">News</span>
+<div>
+  <span class="news-content">[05/2024] One paper on time series classification is accepted to ECMLPKDD 2024</span>
+</div>
+
+
+
+<!-- 最后更新时间：2022/9/1 12:00 -->
+<style>
+.date {
+  font-family: Arial, sans-serif;
+  font-size: 0.8em;
+  font-weight: bold;
+}
+</style>
+<script>
+document.write('<span class="date">Updated date: </span>' + document.lastModified);
+</script>
 
 
 
