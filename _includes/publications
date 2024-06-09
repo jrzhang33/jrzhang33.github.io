@@ -237,7 +237,7 @@
 	  	Yang He,
 		Yuhan Wu,
 		Yabo Dong
-		<br><i>ACM International Conference on Information & Knowledge Management (CIKM) 2023</i>, long paper, accepted.
+		<br><i>ACM International Conference on Information & Knowledge Management (CIKM) 2023</i>, oral, accepted.
 		<br>TL;DR: Explore the learning behavior of 1D-CNNs in TSC tasks and leverage this finding to correct the suboptimal behavior of 1D-CNNs.<br>
 		</div>
 		[<a href="https://dl.acm.org/doi/abs/10.1145/3583780.3615076">Paper</a>] [<a href="https://github.com/jrzhang33/TCE">Code</a>][<a href="https://github.com/jrzhang33/TCE/blob/main/TCE-J.%20Zhang.pdf">Slide</a>] 
@@ -290,6 +290,44 @@
 		<br>TL;DR: A federated algorithm for user behavior prediction, ensuring data privacy while enhancing accuracy and computational efficiency.<br>
 		</div>
 		[<a href="http://www.joca.cn/EN/10.11772/j.issn.1001-9081.2020030332">Paper</a>] 
+</td></tr>
+{% include table-space.html %}
+
+
+
+<tr>
+	<td class="pub_td1"><div class="teaser_img_div"><img class="teaser_img" src="/images/teasers/2024ecml.png" height = "500"/></div></td>
+	<td class="pub_td2"><b>LTCR: Long Temporal Characteristic Reconstruction for Segmentation in Contrastive Learning</b><br>
+		<div class='paper_metadata'>
+			Yang He,
+			Yuhan Wu,
+		<u>Junru Zhang</u>,
+		Yabo Dong
+		<br><i>European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD) 2024, oral, accepted. </i>,
+		<br>TL;DR: A method to enhance contrastive learning for time series by addressing the loss of long temporal characteristics.<br>
+		</div>
+		
+</td></tr> 
+
+
+
+<tr>
+	<td class="pub_td1"><div class="teaser_img_div"><a href="https://ieeexplore.ieee.org/abstract/document/10530436"><img class="teaser_img" src="/images/teasers/tiv_2024.png" height = "500"/></a></div></td>
+	<td class="pub_td2"><b>MT-SSD: Single-Stage 3D Object Detector Based on Magnification Transformation</b><br>
+		<div class='paper_metadata'>
+	  	Qifeng Liu,
+		Yabo Dong, 
+		Dawei Zhao, 
+		Liang Xiao,
+		Bin Dai,
+		Chen Min,
+		<u>Junru Zhang</u>, 
+		Yiming Nie, 
+		Dongming Lu
+		<br><i>IEEE Transactions on Intelligent Vehicles 2024, accepted </i>
+		<br>TL;DR: A new method on single-stage 3D object detection for autonomous driving.<br>
+		</div>
+	[<a href="https://www.sciencedirect.com/science/article/abs/pii/S0957417423017049">Paper</a>]
 </td></tr>
 {% include table-space.html %}
 
