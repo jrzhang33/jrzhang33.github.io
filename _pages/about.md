@@ -20,9 +20,9 @@ My primary research interests lie in sensor-based time series data mining, speci
 <style>
 .news-title {
   font-family: Arial, sans-serif;
-  font-size: 2em;
+  font-size: 1.6em;
   font-weight: bold;
-  color: blue;
+  color: Grey;
   display: block;
 }
 .news-content {
@@ -34,22 +34,20 @@ My primary research interests lie in sensor-based time series data mining, speci
 
 <span class="news-title">News</span>
 <div>
-  <span class="news-content">[05/2024] One paper on time series classification is accepted to ECMLPKDD 2024</span>
+  <span class="news-content">[05/2024] One paper on time series classification is accepted to ECML/PKDD 2024</span>
+  <span class="news-content">[05/2024] One paper on domain generalization is accepted to KDD 2024</span>
+  <span class="news-content">[05/2024] One paper on 3D object detection is accepted to IEEE TIV </span>
+  <span class="news-content">[09/2023] One paper on k-means clustering in high dimensions is accepted to Knowledge-Based Systems 2023</span>
+    <span class="news-content">[09/2023] One paper on time series anomaly detection is accepted to EAAI </span>
+	<span class="news-content">[08/2023] One paper on time series forecasting is accepted to ESWA </span>
+   <span class="news-content">[08/2023] One paper on exploring deep learning interpretability is accepted to CIKM 2023 </span>
+  <span class="news-content">[06/2023] One paper on improving time-series model adaptability is accepted to ECML/PKDD 2023 </span>
+
 </div>
 
 
 
-<!-- 最后更新时间：2022/9/1 12:00 -->
-<style>
-.date {
-  font-family: Arial, sans-serif;
-  font-size: 0.8em;
-  font-weight: bold;
-}
-</style>
-<script>
-document.write('<span class="date">Updated date: </span>' + document.lastModified);
-</script>
+
 
 
 
