@@ -222,7 +222,7 @@
 		Yang He,
 		Yabo Dong,
 		Duanqing Xu
-		<br><i>ACM SlGKDD International Conference on Knowledge Discovery & Data Mining (KDD) 2024, oral. </i>,
+		<br><i>ACM SlGKDD International Conference on Knowledge Discovery & Data Mining (KDD) 2024, oral. </i>
 		<br>TL;DR: Generate novel and unseen time-series instances with mixed activity styles for training to improve domain generalization performance in HAR.<br>
 		</div>
 		[<a href="http://arxiv.org/abs/2406.04609">Paper</a>]
@@ -237,7 +237,7 @@
 	  	Yang He,
 		Yuhan Wu,
 		Yabo Dong
-		<br><i>ACM International Conference on Information & Knowledge Management (CIKM) 2023</i>, oral.
+		<br><i>ACM International Conference on Information & Knowledge Management (CIKM) 2023, oral.</i>
 		<br>TL;DR: Explore the learning behavior of 1D-CNNs in TSC tasks and leverage this finding to correct the suboptimal behavior of 1D-CNNs.<br>
 		</div>
 		[<a href="https://dl.acm.org/doi/abs/10.1145/3583780.3615076">Paper</a>] [<a href="https://github.com/jrzhang33/TCE">Code</a>][<a href="https://github.com/jrzhang33/TCE/blob/main/TCE-J.%20Zhang.pdf">Slide</a>] 
@@ -255,7 +255,7 @@
 	  	Haowen Zhang,
 		Yuhan Wu,
 		Yabo Dong
-		<br><i>European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD) 2023</i>, oral.
+		<br><i>European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD) 2023, oral.</i> 
 		<br>TL;DR: An adaptive convolutional kernel transform that models the establishment of 1D-CNN as a sequential decision-making problem using the reinforcement learning.<br>
 		</div>
 	[<a href="https://link.springer.com/chapter/10.1007/978-3-031-43424-2_12">Paper</a>] [<a href="https://github.com/jrzhang33/Adacket">Code</a>][<a href="/images/teasers/Slide_Sub754-Adacket-J. Zhang.pdf">Slide</a>] [<a href="/images/teasers/Poster-Sub754-Adacket-J. Zhang.pdf">Poster</a>]
@@ -303,7 +303,7 @@
 			Yuhan Wu,
 		<u>Junru Zhang</u>,
 		Yabo Dong
-		<br><i>European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD) 2024, oral. </i>,
+		<br><i>European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD) 2024, oral. </i>
 		<br>TL;DR: A method to enhance contrastive learning for time series by addressing the loss of long temporal characteristics.<br>
 		</div>
 		
@@ -324,7 +324,7 @@
 		<u>Junru Zhang</u>, 
 		Yiming Nie, 
 		Dongming Lu
-		<br><i>IEEE Transactions on Intelligent Vehicles 2024 </i>
+		<br><i>IEEE Transactions on Intelligent Vehicles (IEEE TIV) 2024 </i>
 		<br>TL;DR: A new method on single-stage 3D object detection for autonomous driving.<br>
 		</div>
 	[<a href="https://ieeexplore.ieee.org/abstract/document/10530436">Paper</a>]
