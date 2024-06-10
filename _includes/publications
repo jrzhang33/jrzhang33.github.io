@@ -212,7 +212,7 @@
 
 
  <tr>
-	<td class="pub_td1"><div class="teaser_img_div"><img class="teaser_img" src="/images/teasers/DI2SDiff.png" height = "500"/></div></td>
+	<td class="pub_td1"><div class="teaser_img_div"><a href="http://arxiv.org/abs/2406.04609"></a><img class="teaser_img" src="/images/teasers/DI2SDiff.png" height = "500"/></div></td>
 	<td class="pub_td2"><b>Diverse Intra- and Inter-Domain Activity Style Fusion for Cross-Person Generalizationin Activity Recognition</b><br>
 		<div class='paper_metadata'>
 		<u>Junru Zhang</u>,
@@ -225,7 +225,7 @@
 		<br><i>ACM SlGKDD International Conference on Knowledge Discovery & Data Mining (KDD) 2024, research track, accepted. </i>,
 		<br>TL;DR: Generate novel and unseen time-series instances with mixed activity styles for training to improve domain generalization performance in HAR.<br>
 		</div>
-		
+		[<a href="http://arxiv.org/abs/2406.04609">Paper</a>]
 </td></tr> 
 
 <tr>
