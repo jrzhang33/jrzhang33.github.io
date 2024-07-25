@@ -311,7 +311,7 @@
 
 
 
-<tr>
+<!-- <tr>
 	<td class="pub_td1"><div class="teaser_img_div"><a href="https://ieeexplore.ieee.org/abstract/document/10530436"><img class="teaser_img" src="/images/teasers/tiv_2024.png" height = "500"/></a></div></td>
 	<td class="pub_td2"><b>MT-SSD: Single-Stage 3D Object Detector Based on Magnification Transformation</b><br>
 		<div class='paper_metadata'>
@@ -329,7 +329,7 @@
 		</div>
 	[<a href="https://ieeexplore.ieee.org/abstract/document/10530436">Paper</a>]
 </td></tr>
-{% include table-space.html %}
+{% include table-space.html %} -->
 
 <tr>
 	<td class="pub_td1"><div class="teaser_img_div"><a href="https://www.sciencedirect.com/science/article/abs/pii/S0957417423017049"><img class="teaser_img" src="/images/teasers/effective.jpg" height = "500"/></a></div></td>

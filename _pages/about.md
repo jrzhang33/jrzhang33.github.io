@@ -34,9 +34,10 @@ My primary research interests lie in sensor-based time series data mining, speci
 
 <span class="news-title">News</span>
 <div>
+ <span class="news-content">🎉[07/2024] One paper on time series forecasting is accepted to ACM MM </span><br>
   <span class="news-content">🎉[05/2024] One paper on time series classification is accepted to ECML/PKDD 2024</span><br>
   <span class="news-content">🎉[05/2024] One paper on domain generalization is accepted to KDD 2024</span><br>
-  <span class="news-content">🎉[05/2024] One paper on 3D object detection is accepted to IEEE TIV </span><br>
+  
   <span class="news-content">🎉[09/2023] One paper on k-means clustering in high dimensions is accepted to Knowledge-Based System</span><br>
   <span class="news-content">🎉[09/2023] One paper on time series anomaly detection is accepted to EAAI </span><br>
   <span class="news-content">🎉[08/2023] One paper on time series forecasting is accepted to ESWA </span><br>
