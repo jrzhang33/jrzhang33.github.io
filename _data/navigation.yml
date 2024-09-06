@@ -3,8 +3,8 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Projects"
-    url: /project/
+  # - title: "Projects"
+  #   url: /project/
 
   # - title: "Curriculum Vitae"
   #   url: /files/cv_jrzhang.pdf
