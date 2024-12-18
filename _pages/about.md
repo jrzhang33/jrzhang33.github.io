@@ -8,10 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-{% include base_path %}
+{% include base_path %} 
 
 <!-- ## About Me -->
-I am currently pursuing my Ph.D. at the Department of Computer Science and Technology at [Zhejiang University](https://www.zju.edu.cn/english/), where I began my program in the fall of 2021. I am fortunate to be under the supervision of [Prof. Duanqing Xu](https://person.zju.edu.cn/en/0092050) and [Prof. Yabo Dong](https://person.zju.edu.cn/en/dyb). Prior to this, I earned my Bachelor of Science degree from the Department of Computer Science and Technology at [Henan Normal University](https://www.htu.edu.cn/english/) in 2021. 
+I am currently pursuing my Ph.D. at the Department of Computer Science and Technology at [Zhejiang University](https://www.zju.edu.cn/english/), where I began my program in the fall of 2021. I am fortunate to be under the supervision of [Prof. Duanqing Xu](https://person.zju.edu.cn/en/0092050) and [Prof. Yabo Dong](https://person.zju.edu.cn/en/dyb).  I’m also a visiting PhD in the College of Computing and Data Science at Nanyang Technological University, under the supervision of [Prof. Han Yu] (https://federated-learning.org/han.yu/).
+<!-- Prior to this, I earned my Bachelor of Science degree from the Department of Computer Science and Technology at [Henan Normal University](https://www.htu.edu.cn/english/) in 2021.  -->
 <!-- During my undergraduate studies, I had the opportunity to delve into the fields of federated learning and mobile edge computing at the Henan Academy of Big Data, advised by [Prof. Peiyan Yuan](https://www.scholat.com/yuanpeiyan). -->
 
 My primary research interests lie in sensor-based time series data mining, specifically focusing on the development of self-supervised learning, generative models, transfer learning, and reinforcement learning. 
