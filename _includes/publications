@@ -279,7 +279,7 @@
 {% include table-space.html %}
 
 
-<tr>
+<!-- <tr>
 	<td class="pub_td1"><div class="teaser_img_div"><a href="http://www.joca.cn/EN/10.11772/j.issn.1001-9081.2020030332"><img class="teaser_img" src="/images/teasers/flsec.png" height = "500" /></a></div></td>
 	<td class="pub_td2"><b>Federated security tree algorithm for user privacy protection</b><br>
 		<div class='paper_metadata'>
@@ -291,7 +291,7 @@
 		</div>
 		[<a href="http://www.joca.cn/EN/10.11772/j.issn.1001-9081.2020030332">Paper</a>] 
 </td></tr>
-{% include table-space.html %}
+{% include table-space.html %} -->
 
 
 
