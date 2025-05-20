@@ -15,7 +15,7 @@ I am currently pursuing my Ph.D. at the Department of Computer Science and Techn
 <!-- Prior to this, I earned my Bachelor of Science degree from the Department of Computer Science and Technology at [Henan Normal University](https://www.htu.edu.cn/english/) in 2021.  -->
 <!-- During my undergraduate studies, I had the opportunity to delve into the fields of federated learning and mobile edge computing at the Henan Academy of Big Data, advised by [Prof. Peiyan Yuan](https://www.scholat.com/yuanpeiyan). -->
 
-My primary research interests lie in sensor-based time series data mining, specifically focusing on the development of self-supervised learning, generative models, transfer learning, and reinforcement learning. 
+My primary research interests lie in sensor-based time series data mining, specifically focusing on the development of  LLMs for time series, generative models, and transfer learning.
 
 
 <style>
@@ -35,6 +35,8 @@ My primary research interests lie in sensor-based time series data mining, speci
 
 <span class="news-title">News</span>
 <div>
+<span class="news-content">🎉[05/2025] One paper on single domain generalization for time series classification is accepted to KDD 2025 </span><br>
+<span class="news-content">🎉[12/2024] One paper on time series forecasting is accepted to AAAI 2025 </span><br>
  <span class="news-content">🎉[07/2024] One paper on time series forecasting is accepted to ACM MM 2024 </span><br>
   <span class="news-content">🎉[05/2024] One paper on time series classification is accepted to ECML/PKDD 2024</span><br>
   <span class="news-content">🎉[05/2024] One paper on domain generalization is accepted to KDD 2024</span><br>
