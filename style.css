@@ -1,0 +1,354 @@
+/* Lang Feng Homepage - Style inspired by Mingyang Chen's design */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Inter', 'Roboto', 'Open Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+  line-height: 1.6;
+  color: #000000;
+  background: #ffffff;
+  margin: 0;
+  padding: 0 1rem;
+}
+
+.container {
+  max-width: 880px;
+  margin: 0 auto;
+  padding: 2rem;
+  background: #fff;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+}
+
+/* Header Section */
+.hero {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+  flex-direction: row-reverse;
+  margin-top: 1.5rem;
+  margin-bottom: 2rem;
+}
+
+.avatar {
+  width: 160px;
+  border-radius: 20px;
+  flex-shrink: 0;
+  object-fit: cover;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.intro {
+  flex: 1;
+}
+
+h1 {
+  margin: 0;
+  font-size: 2rem;
+  font-weight: 600;
+  color: #000000;
+}
+
+.position {
+  margin: 0.25rem 0 0.5rem;
+  font-size: 1.1rem;
+  color: #666666;
+  font-weight: 400;
+}
+
+/* Research Topics */
+.topics {
+  margin: 1.0rem 0;
+  padding: 0;
+  list-style: none;
+  line-height: 1.3;
+}
+
+.topics li {
+  display: block; /* Changed from inline-block to block for line breaks */
+  margin: 4px 0; /* Changed margin for vertical spacing */
+  padding: 2px 6px;
+  font-size: 0.9em;
+  line-height: 1.3;
+  color: #000000;
+  font-weight: 400;
+  background-color: #f5f5f5;
+  border-radius: 4px;
+  width: fit-content; /* Keep width to content size */
+}
+
+.email {
+  margin: 1.0rem 0;
+  font-size: 0.9em;
+  color: #000000;
+}
+
+.links {
+  margin: 1.0rem 0;
+  font-size: 0.9em;
+}
+
+.links a {
+  color: #000000;
+  text-decoration: none;
+  font-weight: 500;
+  transition: color 0.2s ease;
+}
+
+.links a:hover {
+  color: #666666;
+}
+
+.links i {
+  margin-right: 4px;
+}
+
+/* Section Headers */
+h2 {
+  font-size: 1.8em;
+  margin: 2rem 0 1rem;
+  color: #000000;
+  font-weight: 500;
+  border-bottom: 1px solid #f0f0f0;
+  padding-bottom: 0.25rem;
+}
+
+/* About Section */
+.bio p {
+  margin-bottom: 1rem;
+  text-align: justify;
+  word-break: break-word;
+  hyphens: auto;
+  font-size: 1.0em;
+}
+
+/* Publications Section */
+.publications {
+  margin-bottom: 1rem;
+}
+
+.publication {
+  margin-bottom: 12px;
+  padding: 12px;
+  background-color: #ffffff;
+  position: relative;
+  overflow: hidden;
+  border: 1px solid #f0f0f0;
+  border-radius: 8px;
+  transition: all 0.2s ease;
+}
+
+.publication:hover {
+  border-color: #e0e0e0;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+  transform: translateY(-1px);
+}
+
+.publication-title {
+  word-break: break-word;
+  hyphens: auto;
+  font-weight: 500;
+  font-size: 0.9em;
+  margin-bottom: 4px;
+  color: #000000;
+  line-height: 1.3;
+}
+
+.publication-authors {
+  color: #666666;
+  margin-bottom: 4px;
+  font-size: 0.8em;
+}
+
+.publication-authors strong {
+  color: #000000;
+  font-weight: 500;
+}
+
+.publication-venue {
+  display: inline-block;
+  padding: 2px 6px;
+  background-color: #e8ebef;
+  border: 1px solid #d0dae3;
+  border-radius: 4px;
+  font-size: 0.75em;
+  font-family: 'Times New Roman', Times, serif;
+  font-style: italic;                /* 关键：斜体 */
+  color: #2c3e50;
+  text-decoration: none;
+  font-weight: 400;
+  letter-spacing: 0.2px;
+  transition: all 0.2s ease;
+  text-align: center;
+  white-space: nowrap;
+}
+
+
+.publication-longvenue {
+  display: inline-block;
+  padding: 2px 6px;
+  background-color: #e8ebef;
+  border: 1px solid #d0dae3;
+  border-radius: 4px;
+  font-size: 0.75em;
+  font-family: 'Times New Roman', Times, serif;
+  font-style: italic;                /* 关键：斜体 */
+  color: #362c50;
+  text-decoration: none;
+  font-weight: 400;
+  letter-spacing: 0.2px;
+  transition: all 0.2s ease;
+  text-align: center;
+  white-space: nowrap;
+}
+
+
+.publication-links a {
+  display: inline-block;
+  padding: 2px 6px;
+  background-color: #ffffff;
+  border: 1px solid #000000;
+  border-radius: 4px;
+  color: #000000;
+  text-decoration: none;
+  font-size: 0.7em;
+  font-weight: 500;
+  transition: all 0.2s ease;
+}
+
+.publication-links a:hover {
+  background-color: #f8f8f8;
+  transform: translateY(-0.5px);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.publication-meta {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-top: 6px;
+}
+
+.publication-links {
+  margin-top: 0;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+/* See More Link */
+.see-more {
+  margin-top: -0.5rem;
+  margin-bottom: 1.5rem;
+  font-size: 0.9rem;
+  color: #666666;
+}
+
+/* Awards Section */
+.awards {
+  margin-left: 1rem;
+  padding-left: 0;
+}
+
+.awards li {
+  margin-bottom: 0.5rem;
+  list-style-type: disc;
+  font-size: 0.9em;
+}
+
+.awards em {
+  font-weight: 500;
+  color: #000000;
+}
+
+/* General Link Styles */
+a {
+  color: #000000;
+  text-decoration: underline;
+  font-weight: 500;
+  transition: color 0.2s ease;
+}
+
+a:hover {
+  color: #666666;
+}
+
+/* Responsive Design */
+@media screen and (max-width: 768px) {
+  body {
+    padding: 15px;
+  }
+
+  .container {
+    padding: 1.5rem;
+  }
+
+  .hero {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+
+  .avatar {
+    width: 120px;
+    margin-bottom: 1rem;
+  }
+
+  .intro {
+    text-align: center;
+  }
+
+  h1 {
+    font-size: 1.8rem;
+  }
+
+  h2 {
+    font-size: 1.5rem;
+  }
+
+  .publication-meta {
+    flex-wrap: wrap;
+    gap: 8px;
+  }
+
+  .publication-venue {
+    width: 80px;
+    font-size: 0.65em;
+  }
+
+  .publication-links a {
+    font-size: 0.65em;
+  }
+
+  .publication-title {
+    font-size: 0.85em;
+  }
+
+  .publication-authors {
+    font-size: 0.75em;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .container {
+    padding: 1rem;
+  }
+
+  .avatar {
+    width: 100px;
+  }
+
+  h1 {
+    font-size: 1.6rem;
+  }
+
+  h2 {
+    font-size: 1.3rem;
+  }
+}
