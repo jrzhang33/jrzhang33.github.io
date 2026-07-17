@@ -1,6 +1,8 @@
 (() => {
   'use strict';
 
+  document.documentElement.classList.add('js-enabled');
+
   const filterButtons = [...document.querySelectorAll('[data-publication-filter]')];
   const publications = [...document.querySelectorAll('.publication[data-year]')];
   const menuToggle = document.querySelector('.menu-toggle');

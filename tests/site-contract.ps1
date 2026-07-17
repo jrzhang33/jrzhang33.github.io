@@ -51,8 +51,7 @@ function Assert-Count {
 Assert-Literal $html 'Junru Zhang' 'Missing English name'
 $chineseName = -join ([char[]](0x5F20, 0x541B, 0x5982))
 Assert-Literal $html $chineseName 'Missing Chinese name'
-Assert-Literal $html 'PhD Student @ ZJU' 'Missing ZJU position'
-Assert-Literal $html 'Visiting @ NTU' 'Missing NTU position'
+Assert-Literal $html 'PhD Student @ ZJU &amp; Visiting @ NTU' 'Position wording changed from the source homepage'
 Assert-Literal $html 'junruzhang@zju.edu.cn' 'Missing ZJU email'
 Assert-Literal $html 'jrzhang1999@gmail.com' 'Missing Gmail address'
 Assert-Literal $html 'Google Scholar' 'Missing Google Scholar link'
@@ -108,6 +107,8 @@ foreach ($title in $publicationTitles) {
 Assert-Count $html '<article class="publication" data-year="(?:2023|2024|2025|2026)"' 9 'Selected publication count changed'
 Assert-Count $html 'data-publication-filter=' 4 'Publication filter count changed'
 Assert-Match $html 'data-publication-filter="all"[^>]*aria-pressed="true"' 'All filter must be selected by default'
+Assert-Literal $html 'IEEE Transactions on Mobile Computing' 'Full IEEE Transactions on Mobile Computing venue name was shortened'
+Assert-Count $html '<a[^>]+aria-label="(?:Paper|Code): [^"]+"' 16 'Publication action links need descriptive accessible names'
 
 $serviceItems = @(
   'Program Committee (PC) Member',
@@ -138,8 +139,11 @@ Assert-Match $css '@media \(max-width: 800px\)' 'Missing responsive breakpoint'
 Assert-Match $css '@media \(max-width: 480px\)' 'Missing small-screen breakpoint'
 Assert-Match $css 'prefers-reduced-motion' 'Missing reduced-motion support'
 Assert-Match $css ':focus-visible' 'Missing visible keyboard focus styling'
+Assert-Match $css '\.js-enabled \.menu-toggle' 'Mobile menu must collapse only when JavaScript is available'
+Assert-Match $css '\.js-enabled \.nav-links' 'Mobile navigation needs a no-JavaScript fallback'
 
 Assert-Match $clientScript 'data-publication-filter' 'Missing publication filter logic'
+Assert-Match $clientScript "documentElement\.classList\.add\('js-enabled'\)" 'JavaScript capability class is not applied'
 Assert-Match $clientScript "setAttribute\('aria-pressed'" 'Filter buttons do not expose state'
 Assert-Match $clientScript "setAttribute\('aria-expanded'" 'Mobile menu does not expose state'
 Assert-Match $clientScript 'publication\.hidden' 'Publication visibility is not updated'

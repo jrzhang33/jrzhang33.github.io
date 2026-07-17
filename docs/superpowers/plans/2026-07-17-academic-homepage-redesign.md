@@ -127,7 +127,7 @@ Use this exact top-level order in `index.html`:
       <div class="hero-copy">
         <p class="eyebrow">Final-year PhD · Open to collaboration</p>
         <h1>Junru Zhang <span>张君如</span></h1>
-        <p class="position">PhD Student @ ZJU · Visiting @ NTU</p>
+        <p class="position">PhD Student @ ZJU &amp; Visiting @ NTU</p>
       </div>
       <figure class="portrait-card">
         <img src="assets/ruru.jpg" alt="Portrait of Junru Zhang">
@@ -159,8 +159,8 @@ Define these tokens and use them throughout rather than duplicating colors:
   --color-ink-soft: #476052;
   --color-hero: #07150f;
   --color-hero-alt: #10291d;
-  --color-paper: #f3f8f2;
-  --color-paper-deep: #eaf3e9;
+  --color-paper: #f7faf6;
+  --color-paper-deep: #f0f6ef;
   --color-line: rgba(25, 72, 49, 0.14);
   --color-accent: #69d6a2;
   --color-accent-strong: #2a8f62;

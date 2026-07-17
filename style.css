@@ -730,13 +730,27 @@ footer {
   .site-nav {
     position: relative;
     min-height: 72px;
+    flex-wrap: wrap;
+    padding-block: 14px;
   }
 
-  .menu-toggle {
+  .js-enabled .site-nav {
+    flex-wrap: nowrap;
+    padding-block: 0;
+  }
+
+  .js-enabled .menu-toggle {
     display: block;
   }
 
   .nav-links {
+    flex: 1 1 100%;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    gap: 2px 18px;
+  }
+
+  .js-enabled .nav-links {
     position: absolute;
     top: calc(100% + 1px);
     left: 0;
@@ -753,7 +767,7 @@ footer {
     border-radius: 0 0 14px 14px;
   }
 
-  .nav-links[data-open="true"] {
+  .js-enabled .nav-links[data-open="true"] {
     display: flex;
   }
 
