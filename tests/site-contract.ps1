@@ -127,7 +127,7 @@ foreach ($item in $serviceItems) {
 }
 
 Assert-Literal $html 'Created by Junru Zhang' 'Missing approved footer attribution'
-Assert-Match $html '(?:©|&copy;) 2026 Junru' 'Missing copyright notice'
+Assert-Match $html '(?:\u00A9|&copy;) 2026 Junru' 'Missing copyright notice'
 Assert-Literal $html 'Last updated May 2026' 'Missing last-updated date'
 Assert-Match $html '<script src="script\.js" defer></script>' 'Missing deferred interaction script'
 Assert-Match $html 'target="_blank" rel="noopener noreferrer"' 'External links need safe new-tab attributes'
