@@ -80,7 +80,7 @@ Add exact string assertions for the TimeMaster preprint, all nine selected publi
 Run:
 
 ```powershell
-pwsh -NoProfile -File tests/site-contract.ps1
+powershell -NoProfile -ExecutionPolicy Bypass -File tests/site-contract.ps1
 ```
 
 Expected: exit code `1`, including failures for `Created by Junru Zhang`, `data-research-topic`, selected-publication articles, filter buttons, `script.js`, `--color-paper`, and reduced-motion support.
@@ -202,7 +202,7 @@ Add a mobile-menu button listener that toggles `aria-expanded` and the navigatio
 Run:
 
 ```powershell
-pwsh -NoProfile -File tests/site-contract.ps1
+powershell -NoProfile -ExecutionPolicy Bypass -File tests/site-contract.ps1
 ```
 
 Expected: exit code `0` and exactly `PASS: static site contract`.
@@ -258,7 +258,7 @@ At 390 × 844 and 320 × 800, confirm there is no horizontal scroll, the mobile 
 Run:
 
 ```powershell
-pwsh -NoProfile -File tests/site-contract.ps1
+powershell -NoProfile -ExecutionPolicy Bypass -File tests/site-contract.ps1
 git diff --check
 git status --short
 ```
