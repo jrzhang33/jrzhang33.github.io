@@ -352,70 +352,87 @@ a:hover {
     font-size: 1.3rem;
   }
 }
+/* Hugging Face Upvote */
+
+.hf-wrapper {
+
+    display:inline-flex;
+
+    align-items:center;
+
+    gap:8px;
+
+    margin-left:10px;
+
+    text-decoration:none;
+
+}
+
+
+/* 左边 Hugging Face badge */
+
 .hf-badge {
-    display: inline-flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
 
-    margin-left: 10px;
+    display:inline-flex;
 
-    text-decoration: none;
-    font-family: Inter, Arial, sans-serif;
+    align-items:center;
 
-    transition: all 0.2s ease;
+    gap:5px;
+
+    background:#f1f1f1;
+
+    border:1px solid #d5d5d5;
+
+    color:#333;
+
+    padding:4px 10px;
+
+    border-radius:6px;
+
+    font-size:13px;
+
+    font-weight:500;
+
 }
 
 
-.hf-count {
-    background: #555;
-    color: white;
+/* 数字 */
 
-    min-width: 42px;
-    height: 22px;
+.hf-upvotes {
 
-    padding: 0 8px;
+    background:#555;
 
-    border-radius: 5px 5px 0 0;
+    color:white;
 
-    font-size: 13px;
-    font-weight: 600;
+    padding:1px 7px;
 
-    display: flex;
-    align-items: center;
-    justify-content: center;
+    border-radius:4px;
+
+    font-size:12px;
+
 }
 
 
-.hf-label {
+/* 右侧文字 */
 
-    background: #f1f1f1;
+.hf-tip {
 
-    color: #555;
+    color:#777;
 
-    padding: 3px 10px;
+    font-size:13px;
 
-    border-radius: 0 0 5px 5px;
-
-    font-size: 11px;
-
-    border: 1px solid #ddd;
-    border-top: none;
-
-    white-space: nowrap;
 }
 
 
-.hf-badge:hover {
-    transform: translateY(-2px);
+.hf-wrapper:hover .hf-badge {
+
+    background:#fafafa;
+
 }
 
 
-.hf-badge:hover .hf-count {
-    background: #ffcc4d;
-}
+.hf-wrapper:hover .hf-tip {
 
+    color:#333;
 
-.hf-badge:hover .hf-label {
-    color: #111;
 }
