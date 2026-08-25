@@ -441,9 +441,3 @@ a:hover {
 .hf-wrapper:hover .hf-tip {
     color: #d4a017;              /* slightly brighter gold on hover */
 }
-
-.hf-wrapper:hover .hf-tip {
-
-    color:#0b3d91;
-
-}
