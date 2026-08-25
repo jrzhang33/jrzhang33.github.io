@@ -66,14 +66,33 @@ I am now a research intern at
 
     <h2>Preprints <span style="font-size: 0.6em;">(* co-first)</span></h2>
 
-<div class="publication">
-  <div class="publication-title">Towards a Densing Law for User Representation Learning at Billion-Scale Capacity</div>
-  <div class="publication-authors">Bin Dou*,<strong>Junru Zhang*</strong>, Zhaoyi Yuan*, Wuliang Huang, Letian Gong, Baokun Wang, Huan Li, Yu Cheng, Weiqiang Wang</div>
+<div class="publication" data-hf-paper="2608.23392">
+
+  <div class="publication-title">
+    Towards a Densing Law for User Representation Learning at Billion-Scale Capacity
+  </div>
+
+  <div class="publication-authors">
+    Bin Dou*,<strong>Junru Zhang*</strong>, Zhaoyi Yuan*, Wuliang Huang,
+    Letian Gong, Baokun Wang, Huan Li, Yu Cheng, Weiqiang Wang
+  </div>
+
   <div class="publication-meta">
     <div class="publication-links">
-      <a href="https://arxiv.org/pdf/2608.23392">Paper</a>
+
+      <a href="https://arxiv.org/pdf/2608.23392">
+        Paper
+      </a>
+
+      <a href="https://huggingface.co/papers/2608.23392"
+         target="_blank"
+         class="hf-paper-btn">
+        🤗 Hugging Face ↑ <span class="hf-upvotes">Loading...</span>
+      </a>
+
     </div>
   </div>
+
 </div>
 
 
@@ -243,5 +262,41 @@ I am now a research intern at
       </p>
     </footer>
   </div>
+
+  <script>
+async function loadHFUpvotes() {
+
+  document.querySelectorAll("[data-hf-paper]").forEach(async (paper) => {
+
+    const id = paper.dataset.hfPaper;
+    const counter = paper.querySelector(".hf-upvotes");
+
+    try {
+
+      const response = await fetch(
+        `https://huggingface.co/api/papers/${id}`
+      );
+
+      const data = await response.json();
+
+      if (data.upvotes !== undefined) {
+        counter.textContent = data.upvotes;
+      } else {
+        counter.textContent = "-";
+      }
+
+    } catch (e) {
+
+      console.log("Cannot load HF upvotes:", id);
+      counter.textContent = "-";
+
+    }
+
+  });
+
+}
+
+loadHFUpvotes();
+</script>
 </body>
 </html>
