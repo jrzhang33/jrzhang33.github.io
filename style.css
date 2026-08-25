@@ -370,7 +370,12 @@ a:hover {
 
 }
 
-
+/* Kill the inherited border/background from .publication-links a on the wrapper itself */
+.publication-links a.hf-wrapper {
+    border: none;
+    background: none;
+    padding: 0;
+}
 /* 只有这里有框 */
 
 .hf-badge {
@@ -420,34 +425,22 @@ a:hover {
 /* Welcome文字 */
 
 .hf-tip {
-
-    color:#0b3d91;
-
-    font-size:14px;
-
+    color: #b8860b;              /* dark goldenrod — reads clearly on white */
+    text-shadow: 0 0 6px rgba(255, 193, 7, 0.35); /* subtle golden glow */
+    font-size: 14px;
     font-family:
         "Comic Sans MS",
         "Comic Neue",
         "Quicksand",
         cursive;
-
-    font-weight:600;
-
-    white-space:nowrap;
-
-    margin-left:2px;
-
+    font-weight: 600;
+    white-space: nowrap;
+    margin-left: 2px;
 }
 
-
-/* hover */
-
-.hf-wrapper:hover .hf-badge {
-
-    background:#ffffff;
-
+.hf-wrapper:hover .hf-tip {
+    color: #d4a017;              /* slightly brighter gold on hover */
 }
-
 
 .hf-wrapper:hover .hf-tip {
 
