@@ -360,7 +360,7 @@ a:hover {
 
     align-items:center;
 
-    gap:8px;
+    gap:5px;
 
     margin-left:10px;
 
@@ -417,9 +417,22 @@ a:hover {
 
 .hf-tip {
 
-    color:#777;
+    color: #0b3d91;   /* 深蓝色 */
 
-    font-size:13px;
+    font-size: 14px;
+
+    font-family: "Brush Script MT",
+                 "Segoe Script",
+                 "Lucida Handwriting",
+                 cursive;
+
+    font-style: italic;
+
+    font-weight: 600;
+
+    margin-left: 4px;
+
+    white-space: nowrap;
 
 }
 
