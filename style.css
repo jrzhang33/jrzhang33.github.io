@@ -352,3 +352,15 @@ a:hover {
     font-size: 1.3rem;
   }
 }
+.hf-paper-btn {
+    margin-left: 10px;
+    padding: 3px 10px;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    text-decoration: none;
+    font-size: 0.9rem;
+}
+
+.hf-paper-btn:hover {
+    background: #f5f5f5;
+}
