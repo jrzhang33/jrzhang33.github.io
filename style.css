@@ -352,15 +352,70 @@ a:hover {
     font-size: 1.3rem;
   }
 }
-.hf-paper-btn {
+.hf-badge {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
     margin-left: 10px;
-    padding: 3px 10px;
-    border: 1px solid #ddd;
-    border-radius: 6px;
+
     text-decoration: none;
-    font-size: 0.9rem;
+    font-family: Inter, Arial, sans-serif;
+
+    transition: all 0.2s ease;
 }
 
-.hf-paper-btn:hover {
-    background: #f5f5f5;
+
+.hf-count {
+    background: #555;
+    color: white;
+
+    min-width: 42px;
+    height: 22px;
+
+    padding: 0 8px;
+
+    border-radius: 5px 5px 0 0;
+
+    font-size: 13px;
+    font-weight: 600;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.hf-label {
+
+    background: #f1f1f1;
+
+    color: #555;
+
+    padding: 3px 10px;
+
+    border-radius: 0 0 5px 5px;
+
+    font-size: 11px;
+
+    border: 1px solid #ddd;
+    border-top: none;
+
+    white-space: nowrap;
+}
+
+
+.hf-badge:hover {
+    transform: translateY(-2px);
+}
+
+
+.hf-badge:hover .hf-count {
+    background: #ffcc4d;
+}
+
+
+.hf-badge:hover .hf-label {
+    color: #111;
 }
