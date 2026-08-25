@@ -354,22 +354,24 @@ a:hover {
 }
 /* Hugging Face Upvote */
 
+/* Hugging Face badge */
+
 .hf-wrapper {
 
     display:inline-flex;
 
     align-items:center;
 
-    gap:5px;
+    gap:8px;
 
     margin-left:10px;
 
-    text-decoration:none;
+    text-decoration:none !important;
 
 }
 
 
-/* 左边 Hugging Face badge */
+/* 只有这里有框 */
 
 .hf-badge {
 
@@ -377,19 +379,19 @@ a:hover {
 
     align-items:center;
 
-    gap:5px;
+    gap:6px;
 
-    background:#f1f1f1;
+    padding:2px 8px;
 
-    border:1px solid #d5d5d5;
+    background-color:#ffffff;
 
-    color:#333;
+    border:1px solid #000000;
 
-    padding:4px 10px;
+    border-radius:4px;
 
-    border-radius:6px;
+    color:#000000;
 
-    font-size:13px;
+    font-size:0.7em;
 
     font-weight:500;
 
@@ -404,48 +406,51 @@ a:hover {
 
     color:white;
 
-    padding:1px 7px;
+    padding:1px 6px;
 
     border-radius:4px;
 
     font-size:12px;
 
+    font-weight:600;
+
 }
 
 
-/* 右侧文字 */
+/* Welcome文字 */
 
 .hf-tip {
 
-    color: #0b3d91;   /* 深蓝色 */
+    color:#0b3d91;
 
-    font-size: 14px;
+    font-size:14px;
 
-    font-family: "Brush Script MT",
-                 "Segoe Script",
-                 "Lucida Handwriting",
-                 cursive;
+    font-family:
+        "Comic Sans MS",
+        "Comic Neue",
+        "Quicksand",
+        cursive;
 
-    font-style: italic;
+    font-weight:600;
 
-    font-weight: 600;
+    white-space:nowrap;
 
-    margin-left: 4px;
-
-    white-space: nowrap;
+    margin-left:2px;
 
 }
 
 
+/* hover */
+
 .hf-wrapper:hover .hf-badge {
 
-    background:#fafafa;
+    background:#ffffff;
 
 }
 
 
 .hf-wrapper:hover .hf-tip {
 
-    color:#333;
+    color:#0b3d91;
 
 }
